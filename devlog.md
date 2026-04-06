@@ -34,3 +34,10 @@ what did i do today?
 basic css done started styling the main page.
 what is next?
 make a hamburger menu, animate project cards
+
+session 10
+6.4.2026
+what did i do today?
+i completly messed up my css by trying to add the hamburger menu
+what do i do next?
+start the whole project from scratch
