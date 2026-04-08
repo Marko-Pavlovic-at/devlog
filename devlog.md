@@ -48,3 +48,9 @@ what did i do today?
 started the project fresh and made the structur have more sense
 what is next? 
 style project section
+
+8.4.26
+what did i do today?
+i finished project 1 portfolio website
+what is next
+phase 2 js
