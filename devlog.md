@@ -12,7 +12,6 @@ i finished my css documention and practiced css animations
 what is planned next:
 css grid
 
-
 Session 5-6
 2.4.2026
 what did i do today?
@@ -46,11 +45,19 @@ session 11
 7.4.2026
 what did i do today?
 started the project fresh and made the structur have more sense
-what is next? 
+what is next?
 style project section
 
+session 12
 8.4.26
 what did i do today?
 i finished project 1 portfolio website
 what is next
 phase 2 js
+
+session 13
+10.4.2026
+what did i do today?
+i documented information about git github dev tools vs code extensions and shortcuts
+what is next?
+accecibility basics
