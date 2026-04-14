@@ -89,3 +89,10 @@ what did i do today?
 i finished exercises in js and decided i will move from writing docu doing practise work and docs only after
 what is up next?
 another 6 exercises
+
+session 18
+14.4.2026
+what did i do today ?
+i practised for and while loops
+what do i do next ?
+practise more loops
