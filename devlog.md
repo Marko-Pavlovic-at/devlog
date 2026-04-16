@@ -96,3 +96,11 @@ what did i do today ?
 i practised for and while loops
 what do i do next ?
 practise more loops
+
+session 19
+16.4.2026
+what did i do today
+i practised loops still dont get it
+what is next
+practise loops until i get it
+note cant focus for some reason
