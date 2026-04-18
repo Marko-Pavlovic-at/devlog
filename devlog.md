@@ -111,3 +111,10 @@ what did i do
 more loop practise
 what do i do next?
 more loop practise
+
+session 21
+18.4.2026
+what did i do ?
+i practised for in and for of loops
+what is up next?
+functions practise
