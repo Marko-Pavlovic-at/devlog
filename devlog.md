@@ -125,3 +125,10 @@ practised functions
 what do i do next ?
 practise scope
 feeling: good
+
+session 23
+20.4.2026
+what did i do today?
+practised closures (e11) and started this keyword (e12, tasks 1-2)
+what do i do next?
+finish e12 (tasks 3-4), then hoisting
