@@ -132,3 +132,13 @@ what did i do today?
 practised closures (e11) and started this keyword (e12, tasks 1-2)
 what do i do next?
 finish e12 (tasks 3-4), then hoisting
+
+session 24
+21.4.2026
+what did i do today?
+rough session - e12 task 3 had setTimeout which was too complex (3 layers of nesting, browser API not yet covered)
+rewrote task 3 to use detached method + .bind() instead - same concept, simpler approach
+completed e12 fully (tasks 1-4)
+started e13 optional chaining - task 1 done
+what do i do next?
+continue e13 (tasks 2-4)
