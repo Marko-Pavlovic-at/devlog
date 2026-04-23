@@ -155,3 +155,17 @@ completed e14 – Modules (import/export, named vs default, multi-file shopping 
 note: task 3 was hard - needed step-by-step guidance. reduce syntax forgotten. normal at this stage.
 what do i do next?
 e15 – Classes (short, 2 tasks)
+
+session 26
+23.4.2026
+what did i do today?
+completed e15 – Classes (both tasks)
+task 1: class Vehicle with constructor, describe(), age(), typeof and instanceof checks
+task 2: class ElectricVehicle extends Vehicle with super(), overridden describe(), inherited age(), charge()
+discussed when to use classes vs plain objects (behaviour = use a class, even for one instance)
+discussed why classes make sense for the game: Player, Enemy, Boss
+what do i do next?
+project-game – text-based dungeon crawler (start with Player class in isolation)
+update: also covered hoisting and prototype chain conceptually in the same session
+both ticked off – JS Basics is now fully complete
+tomorrow: start project-game (will take multiple sessions)
