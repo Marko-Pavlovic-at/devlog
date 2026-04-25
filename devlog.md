@@ -169,3 +169,15 @@ project-game – text-based dungeon crawler (start with Player class in isolatio
 update: also covered hoisting and prototype chain conceptually in the same session
 both ticked off – JS Basics is now fully complete
 tomorrow: start project-game (will take multiple sessions)
+
+session 27
+25.4.2026
+what did i do today?
+i started the dungeon crawler project i created a player class and testet it in isolation i encoured a few bugs and solved them with claude.
+what do i do next ?
+work on enemies.js
+work on combat.js
+export and import functions and test a run in game.js
+Session Duration 1 hour 10 minutes
+Feeling: solid i can use classes with different skills like if else etc my logic is sometimes not correct i forget many things when i test my code i forgot important things like what if player takes two times damage in a row.
+the first code block i wrote there was a lot of things wrong with it i didnt notice it on myself only with claude code
