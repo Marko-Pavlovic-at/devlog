@@ -205,3 +205,12 @@ finish the game: add win/lose messages after the loop, then think about multiple
 session duration: 1 hour
 feeling: async is hard to wrap your head around but writing it and debugging it hands-on made it click more than reading would have
 i have an issue keeping things in my head need to learn to write pseudo code
+
+Session 30
+28.4.2026
+what did i do ?
+i finished my game project and thought about my learning process i need more practise building projects so i get better at it for now i decided to move on to dom manipulation i also learned today that i understand the technologies i use but i cant debug them this comes with more projects i will make sure to use a variotion of use cases because i dont know yet how to handle unexpected behavior like random object handling
+what will i do next ?
+start learning and practising dom manipulation
+duration: 40m
+feeling: short session running rounds was fairly easy since most of the logic was in the game function i just got confused with async for the most part
