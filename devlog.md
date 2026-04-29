@@ -214,3 +214,12 @@ what will i do next ?
 start learning and practising dom manipulation
 duration: 40m
 feeling: short session running rounds was fairly easy since most of the logic was in the game function i just got confused with async for the most part
+
+Session 31
+what did i do ?
+e16 all exercises completed, e17 tasks 1 started i used query selector i used text content classlist add remove and toggle i changed styling in js i created an event listener for a click counter
+What do i do next?
+continue with e17
+session duration 1 hour
+feeling:
+good session didnt feel overwhelming i am still making beginner mistakes like today i created an variable inside the event listenter it gets reset every time i need to do it outside aside from that the things i used today werent hard to understand but i need to get used to the syntax and its a good thing i finally see my js in action
