@@ -216,6 +216,7 @@ duration: 40m
 feeling: short session running rounds was fairly easy since most of the logic was in the game function i just got confused with async for the most part
 
 Session 31
+29.4.26
 what did i do ?
 e16 all exercises completed, e17 tasks 1 started i used query selector i used text content classlist add remove and toggle i changed styling in js i created an event listener for a click counter
 What do i do next?
@@ -223,3 +224,12 @@ continue with e17
 session duration 1 hour
 feeling:
 good session didnt feel overwhelming i am still making beginner mistakes like today i created an variable inside the event listenter it gets reset every time i need to do it outside aside from that the things i used today werent hard to understand but i need to get used to the syntax and its a good thing i finally see my js in action
+
+session 32
+30.4.26
+what did i do today?
+e17 task 1 and 2 are complete i used event listeners and event delegation
+What do i do next?
+e17 task3
+duration : 40 min
+feeling: terrible session i got heated i couldnt focus google confused me i dont understand event listener at all i got extremly fruatrated part of this is ais fault because it kept asking me to show code when it could have read it itself. i think thats the worst session so far it was also very short i feel dumb and pathetic for not beeing able to do anything by myself and even if i try i make it worse not better i dont know how to manage this at all with ai i get the solution somehow but i feel like i am not learning anything i am thinking about to skip the exercises go straight to the projects and to brute force it completly without ai until i get it.
