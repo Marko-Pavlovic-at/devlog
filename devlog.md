@@ -233,3 +233,25 @@ What do i do next?
 e17 task3
 duration : 40 min
 feeling: terrible session i got heated i couldnt focus google confused me i dont understand event listener at all i got extremly fruatrated part of this is ais fault because it kept asking me to show code when it could have read it itself. i think thats the worst session so far it was also very short i feel dumb and pathetic for not beeing able to do anything by myself and even if i try i make it worse not better i dont know how to manage this at all with ai i get the solution somehow but i feel like i am not learning anything i am thinking about to skip the exercises go straight to the projects and to brute force it completly without ai until i get it.
+
+session 33
+1.5.2026
+what did i do today?
+finished e17 task 3 (form submit + validation + clear inputs)
+finished e18 task 1 (createElement, delete button via addEventListener inside the click listener)
+e18 task 2 partial — save + load from localStorage works, clear-storage button skipped
+session was hard, hit a wall on dynamic dom + localStorage and felt like i wasn't learning anything
+
+second half: restructured how i learn. new rules:
+- exercises are now micro: one concept, 15-20 min each
+- claude gives one bug at a time with smallest hint, never bullet lists
+- when i feel frustrated claude stops the task and re-explains the concept clean-slate
+- two new micro timer exercises (e19 setTimeout, e20 setInterval/clearInterval)
+- two mini projects (counter, stopwatch) before Project 2 to rebuild confidence
+- e18 task 3 stays skipped — replaced by e19 + e20 + stopwatch project
+- 1-week trial of the new method. if it doesn't feel different, i drop AI completely.
+
+what do i do next?
+e19 — setTimeout, 15 min
+
+feeling: burned out from the actual session, but cautious-hopeful about the new structure. trial week starts here.
