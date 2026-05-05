@@ -243,6 +243,7 @@ e18 task 2 partial — save + load from localStorage works, clear-storage button
 session was hard, hit a wall on dynamic dom + localStorage and felt like i wasn't learning anything
 
 second half: restructured how i learn. new rules:
+
 - exercises are now micro: one concept, 15-20 min each
 - claude gives one bug at a time with smallest hint, never bullet lists
 - when i feel frustrated claude stops the task and re-explains the concept clean-slate
@@ -255,3 +256,23 @@ what do i do next?
 e19 — setTimeout, 15 min
 
 feeling: burned out from the actual session, but cautious-hopeful about the new structure. trial week starts here.
+
+session 34
+3.5.2026
+what did i do today?
+finished e19 (setTimeout) — both tasks correct on first try
+finished e20 (setInterval + clearInterval) — needed a clean-slate explanation of setInterval first because google made it more confusing. one bug: had the `if (counter === 5)` check outside the interval callback, moved it inside and it worked.
+setInterval still feels complicated, not fully clicked yet — will get more reps in the stopwatch project.
+
+what do i do next?
+mini-project-counter (+/− buttons + reset, ~30 min) — DOM only, no timers, builds confidence before stopwatch forces setInterval again.
+
+Session 35
+5.5.2026
+what did i do today?
+i did the mini project counter
+what do i do next?
+i will do the mini project stopwatch
+session duration: 30 min
+feeling:
+very tired could barely focus i have a full time job and i need to get used to it yesterday was the first day in it.
