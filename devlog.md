@@ -276,3 +276,13 @@ i will do the mini project stopwatch
 session duration: 30 min
 feeling:
 very tired could barely focus i have a full time job and i need to get used to it yesterday was the first day in it.
+
+Session 36
+6.5.2026
+what did i do today ?
+i did the stopwatch exercise i didnt want to use ai since it told me not the entire code but a big part of it on accident so i decided to try it without ai at first i used mdn web docs w3schools but i couldnt figure it out then i finished the app using an youtube tutorial the issue is if i would do the same exercise next week i would need a tutorial again
+what is up next ?
+try and write the stopwatch again alone
+session duration : 1 hour
+feeling:
+a big part of my fails come from lack of sleep i need to adress this its hard to work a full time job and learn to code at the same time i feel stuck not just in code but in life the dayjob has also a lot of information i need to process but i also cannot stagnate my coding since its eqally important if not more i have to think about what i should do but the main issue remains my learning is inneficent it was so even before my dayjob
