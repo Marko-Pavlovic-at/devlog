@@ -286,3 +286,12 @@ try and write the stopwatch again alone
 session duration : 1 hour
 feeling:
 a big part of my fails come from lack of sleep i need to adress this its hard to work a full time job and learn to code at the same time i feel stuck not just in code but in life the dayjob has also a lot of information i need to process but i also cannot stagnate my coding since its eqally important if not more i have to think about what i should do but the main issue remains my learning is inneficent it was so even before my dayjob
+
+Session 37
+9.5.2026
+what did i do today ?
+i tried to build the stopwatch mini project alone again but i failed i did rely on ai again i feel terrible about my coding skills right now what i can do is build a stopwatch with stop start reset when i only count seconds up but for edge cases formatting extended logic with elapased time date.now etc i completly blank out.
+What do i do next?
+i tackle a new project a math game where a math problem plops up and the user has 60 seconds to solve it this one is even bigger than the stopwatch.
+session duration: 1:30 h
+feeling : not good the last few sessions were terrible i dont remember the last good session i feel overwhelmed constantly i did rely on ai again my head hurts and i feel worse about myself each time i start coding for now i only can push trough i did take a break the last few days but i dont think it helped.
