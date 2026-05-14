@@ -118,16 +118,6 @@ i practised for in and for of loops
 what is up next?
 functions practise
 
-session 22
-19.4.2026
-what did i do today?
-practised functions
-what do i do next ?
-practise scope
-feeling: good
-
-session 23
-20.4.2026
 what did i do today?
 practised closures (e11) and started this keyword (e12, tasks 1-2)
 what do i do next?
@@ -295,3 +285,30 @@ What do i do next?
 i tackle a new project a math game where a math problem plops up and the user has 60 seconds to solve it this one is even bigger than the stopwatch.
 session duration: 1:30 h
 feeling : not good the last few sessions were terrible i dont remember the last good session i feel overwhelmed constantly i did rely on ai again my head hurts and i feel worse about myself each time i start coding for now i only can push trough i did take a break the last few days but i dont think it helped.
+
+Session 38
+10.5.2026
+what did i do today?
+i started the math arena game i did the setup html structure css styling and a js file where i only got the dom elements i also wrote some pseudo code and set up a git repo
+what do i do next?
+continue project start with game start function
+session duration 30min
+feeling: i feel tired i slep well ate well and did exercise but somehow i feel tired and cant focus properly
+
+Session 39 :
+12.5.2026
+what did i do today?
+tried to work on math arena failed cant do the most simple things i rewrite pseudocode multiple times it fails i google i get more confused i ask ai dont understand the explainations without code until ai gives me code which defeats the purpose of learining
+what should i do next?
+i dont know give up? accept that i am not fit to be a programmer ? try game dev instead?d
+session duration 30 min
+feeling: terrible i feel completly useless.
+
+session 40:
+14.5.2026
+what i did today?
+i started working on my time tracker app wrote the timer with local storage with time formatting with helper functions with reset local storage i rendered the array from local storage into the html i used foreach
+what do i do tommorow :
+review my code review the stop function and explain it to claude describe what each line does comment for things that arent obvious
+session duration 3 hours
+feeling: the session didnt feel terrible i didnt force it i allowed myself to use ai a lot i am not sure yet if thats a good or bad thing i can only figure that out when i do more projects if i made 3 projects and rely on every little thing on ai then i know i need to change something.
