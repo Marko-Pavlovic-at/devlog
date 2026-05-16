@@ -312,3 +312,12 @@ what do i do tommorow :
 review my code review the stop function and explain it to claude describe what each line does comment for things that arent obvious
 session duration 3 hours
 feeling: the session didnt feel terrible i didnt force it i allowed myself to use ai a lot i am not sure yet if thats a good or bad thing i can only figure that out when i do more projects if i made 3 projects and rely on every little thing on ai then i know i need to change something.
+
+Session 41:
+16.5.2026
+What did i do today?
+at the start a lot of theory from last session i tried to comment and understand my code then i started working on a new function i dont understand why i made really great progress last time but got stuck on the next function when my goal was to finish phase 1 dosent make sense to me.
+what do i do next?
+keep working on renderCategoryCards function
+session duration: 1 hour 10 minutes
+feeling: i feel like i struggle with things i already did i have big issues coneccting things ai confused me a lot today which cannot be helped i have no real teacher and google would confuse me probably even more i need more repetition far more repitition i still have a long way to go i need to pull myself together and do more coding i feel how frustration starts to build like in earlier sessions but i am able to catch myself and focus but even if i focus the result isnt always optimal i dont understand why i could do so much last session but so little this session from an understanding point of view
