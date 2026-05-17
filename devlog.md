@@ -321,3 +321,12 @@ what do i do next?
 keep working on renderCategoryCards function
 session duration: 1 hour 10 minutes
 feeling: i feel like i struggle with things i already did i have big issues coneccting things ai confused me a lot today which cannot be helped i have no real teacher and google would confuse me probably even more i need more repetition far more repitition i still have a long way to go i need to pull myself together and do more coding i feel how frustration starts to build like in earlier sessions but i am able to catch myself and focus but even if i focus the result isnt always optimal i dont understand why i could do so much last session but so little this session from an understanding point of view
+
+Session 42
+17.5.2026
+what did i do today?
+wrote code to render a card with max time spend failed a lot i dont understand anything i am not frustated anymore just tired i accept that i suck
+what do i do next?
+finish toogle button and write rest of timed stats into the card.
+session duration 1 hour
+feeling: resigned i will keep going but i dont feel like i am getting anywhere i will just keep going while ai holds my hand over and over and over again and hope it clicks someday i will grind like this until i get it no matter how long it takes
