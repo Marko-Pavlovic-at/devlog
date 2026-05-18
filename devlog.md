@@ -330,3 +330,22 @@ what do i do next?
 finish toogle button and write rest of timed stats into the card.
 session duration 1 hour
 feeling: resigned i will keep going but i dont feel like i am getting anywhere i will just keep going while ai holds my hand over and over and over again and hope it clicks someday i will grind like this until i get it no matter how long it takes
+
+Session 43
+18.5.2026
+what did i do today?
+nothing but failure
+what do i do next? fuck ai and write a new app on my own
+session duration 50min
+feeling: terrible did only fail ai hand hold me with everything i am done i will throw away the time tracker i keep the code but i start something new i will create a habit tracker with stats i wont ask ai i wont google i will only look up syntax and try it so many times until i get it
+
+session 44
+18.5.2026
+what did i do today?
+i informed myself about local storage and my way forward i will write 3 websites without the help of ai one habit tracker one workout tracker and a game i started working on my habit tracker i did the setup
+what do i do next ?
+make github repo for habit tracker
+figure out how to paste user input into a dropdown
+finish form logic and test it out
+session duration: 1 hour
+feeling: not much feeling just sorted a few things out and started a new project
