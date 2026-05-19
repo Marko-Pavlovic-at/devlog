@@ -349,3 +349,14 @@ figure out how to paste user input into a dropdown
 finish form logic and test it out
 session duration: 1 hour
 feeling: not much feeling just sorted a few things out and started a new project
+
+Session 45
+19.5.2026
+what did i do ?
+made github repo
+scratched user input into dropdown
+managed to get user input into alert with button click
+what do i do next?
+not sure how to move forward feel lost
+session duration 30 mins
+feeling: terrible i feel lost and stupid
