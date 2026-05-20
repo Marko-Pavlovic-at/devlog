@@ -360,3 +360,11 @@ what do i do next?
 not sure how to move forward feel lost
 session duration 30 mins
 feeling: terrible i feel lost and stupid
+
+Session 46
+what did i do today?
+i started a new learning path a new folder i did some basics like variables tenray operators destructuring and array methods
+what do i do next?
+first project of my new path
+session duration 50mins
+feeling: quite okay better than last time i still didnt get a lot of stuff on the basics big projects were to soon for me i need to grind more
