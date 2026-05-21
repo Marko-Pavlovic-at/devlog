@@ -368,3 +368,12 @@ what do i do next?
 first project of my new path
 session duration 50mins
 feeling: quite okay better than last time i still didnt get a lot of stuff on the basics big projects were to soon for me i need to grind more
+
+session 47
+21.05.2026
+what did i do today?
+i tried a new learning path with ai but less complicated but it didnt work i dont know why i always come back to ai i need to stop
+what do i do next?
+i dont know what to do anymore
+feeling: bad
+session duration 30 mins
