@@ -396,3 +396,12 @@ what do i do next ?
 make bonus on guessing game create a new game button
 feeling: good session a bit frustrated with mdn web docs i have trouble with many things at once
 session duration 2hours 30 mins
+
+Session 50
+24.05.2026
+what did i do today?
+added new game button and lose condition
+what do i do next?
+keep player score
+feeling: i dont file like coding today my brain dosent work ai frustrated me
+session duration 30min
