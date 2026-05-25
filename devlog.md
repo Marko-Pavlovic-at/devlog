@@ -405,3 +405,12 @@ what do i do next?
 keep player score
 feeling: i dont file like coding today my brain dosent work ai frustrated me
 session duration 30min
+
+session 51
+25.05.2026
+What did i do today?
+i finished the dice battle project
+what do i do next?
+rock paper sciccors project
+feeling: best session in a while i struggled yes but in the end i figured everything out only thing i forgot how to access object property in array
+session duration 1 hour 40 mins
