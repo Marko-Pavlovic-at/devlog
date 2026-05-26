@@ -414,3 +414,14 @@ what do i do next?
 rock paper sciccors project
 feeling: best session in a while i struggled yes but in the end i figured everything out only thing i forgot how to access object property in array
 session duration 1 hour 40 mins
+
+Session 52
+26.05.2026
+what did i do today?
+started rock paper scissors with pseudocode i set up basic html and js structure
+i learned how to create a git repo from console
+i created a pc choice with an array and used math random with array length
+i created player choice i learned about dataset choice and e.target also how to handle options i dont want
+what do i do next?
+write win conditions
+session duration: 1h 30mins
