@@ -425,3 +425,12 @@ i created player choice i learned about dataset choice and e.target also how to 
 what do i do next?
 write win conditions
 session duration: 1h 30mins
+
+Session 53
+17.05.2026
+what did i do today ?
+finished rock paper scissors project
+what do i do next?
+rpg quest log project
+feeling: good session i was calm and solved all issues mostly alone
+session duration 1h
