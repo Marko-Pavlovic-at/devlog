@@ -427,10 +427,21 @@ write win conditions
 session duration: 1h 30mins
 
 Session 53
-17.05.2026
+27.05.2026
 what did i do today ?
 finished rock paper scissors project
 what do i do next?
 rpg quest log project
 feeling: good session i was calm and solved all issues mostly alone
 session duration 1h
+
+Session 54
+29.05.2026
+what did i do today?
+started quest log project
+render card from user input with array object and for each
+saved to localstorage
+what do i do next?
+fix local storage and style the card
+feeling: good session most things i could do alone with little help but completly failed on local storage i hate it i decide not to learn it just copy and paste the code i wont use local storage later anyway since i will use a database in the future
+session duration : 1hour
