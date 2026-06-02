@@ -457,3 +457,13 @@ what do i do next?
 i will write the next steps in plain english for the dragon hoard project
 feeling: frustrating hard but good session i also took plently of breaks
 session duration : 2 hours 32mins
+
+session 56
+02.06.2026
+what did i do today?
+i worked on the dragon hoard project
+i did the basic game loop the gold logic the lost logic
+what do i do next?
+fix the best run score and add a reset button
+feeling: session was good during the end it got frustrating
+duration : 1hour 10 mins
