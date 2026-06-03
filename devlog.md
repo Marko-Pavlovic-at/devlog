@@ -467,3 +467,22 @@ what do i do next?
 fix the best run score and add a reset button
 feeling: session was good during the end it got frustrating
 duration : 1hour 10 mins
+
+Session 57
+2.06.2026
+what did i do today?
+finished dragon hoard failed on next project miserably
+what do i do next?
+i dont know
+feeling : terrible i dont know if i should keep coding i feel miserable every time
+duration 1 hour 40 mins
+
+Session 58
+3.06.2026
+what did i do today?
+minimal coding finished spellbook i let ai write the code for me
+fresh start deleted everything
+what do i do next?
+start project 1
+feeling: annoyed
+session duration 30 mins
