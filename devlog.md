@@ -486,3 +486,22 @@ what do i do next?
 start project 1
 feeling: annoyed
 session duration 30 mins
+
+session 59
+4.6.2026
+what did i do today?
+i did a skill assasment ai annoyed me so i stopped and deleted everything
+what do i do next?
+figure out how i move forward with coding
+feeling: bad
+session duration 1h 30 minuten
+
+session 60
+5.6.2026
+what did i do today?
+started new plan 4 project for each thing i feel weak like event handling
+did first project in the plan
+what do i do next?
+event handling project 2
+feeling no emotions just tired
+session duration 30mins
