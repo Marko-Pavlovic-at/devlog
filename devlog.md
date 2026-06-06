@@ -505,3 +505,14 @@ what do i do next?
 event handling project 2
 feeling no emotions just tired
 session duration 30mins
+
+Session 61
+6.6.2026
+what did i do today?
+i did the reaction timer display but failed and let claude finish it
+i noticed i have more weaknesses than i thought
+i will learn everything from scratch
+what do i do next?
+start with the fundamentals
+feeling okay ish just frustrated with myself need more patience
+session duration 1hour 30 mins
