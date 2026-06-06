@@ -511,8 +511,9 @@ Session 61
 what did i do today?
 i did the reaction timer display but failed and let claude finish it
 i noticed i have more weaknesses than i thought
-i will learn everything from scratch
+i will rely more on ai
+i started building a to do list
 what do i do next?
-start with the fundamentals
+finish to do list
 feeling okay ish just frustrated with myself need more patience
-session duration 1hour 30 mins
+session duration 2hour 30 mins
