@@ -517,3 +517,15 @@ what do i do next?
 finish to do list
 feeling okay ish just frustrated with myself need more patience
 session duration 2hour 30 mins
+
+Session 62
+7.6.2026
+what did i do today?
+i build a to do list i let ai walk me trough it
+i started a quest log project which is essentially the same project as the to do list but i need to do it alone
+i made the render work
+what do i do next?
+i need to find a way to reach the li element so i can apply style to it
+i need to find a way to reach the delete button and use array.filter to delete an item
+feeling: better than last session i came farther than usual alone but i am still missing things
+session duration 2h 28 mins
