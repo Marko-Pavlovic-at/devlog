@@ -529,3 +529,11 @@ i need to find a way to reach the li element so i can apply style to it
 i need to find a way to reach the delete button and use array.filter to delete an item
 feeling: better than last session i came farther than usual alone but i am still missing things
 session duration 2h 28 mins
+
+Session 63
+What did I do today? 
+I got started on react 
+What do I do next? 
+Build to do list 
+Feeling good 
+Session duration 20 min
