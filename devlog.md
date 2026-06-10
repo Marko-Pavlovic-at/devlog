@@ -531,9 +531,17 @@ feeling: better than last session i came farther than usual alone but i am still
 session duration 2h 28 mins
 
 Session 63
-What did I do today? 
-I got started on react 
-What do I do next? 
-Build to do list 
-Feeling good 
+What did I do today?
+I got started on react
+What do I do next?
+Build to do list
+Feeling good
 Session duration 20 min
+
+Session 64
+what did i do today?
+created a counter in react
+what do i do next?
+greeting in react
+feeling react feels extremly weird
+session duration 30mins
