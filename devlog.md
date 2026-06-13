@@ -540,8 +540,26 @@ Session duration 20 min
 
 Session 64
 what did i do today?
-created a counter in react
+created counter and greeting and had a lot of frustration
 what do i do next?
-greeting in react
-feeling react feels extremly weird
-session duration 30mins
+start my new react learning path
+feeling react feels extremly weird i am frustrated
+session duration 1h 20mins
+
+Session 65
+12.06.2026
+what did i do today?
+finished phase 1 of my react roadmap created my first project a gallery
+what do i do next?
+start phase 2
+feeling: good but ai is annoying as always
+duration : 1 hour
+
+Session 65
+13.06.2026
+what did i do today?
+i started building a small React to do list with ai i did close to no code just retyped what ai gave me
+what do i do next?
+no idea i feel lost
+feeling : bad i dont understand React maybe its a js skill issue
+session duration 1 hour
