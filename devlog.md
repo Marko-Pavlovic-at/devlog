@@ -559,7 +559,9 @@ Session 65
 13.06.2026
 what did i do today?
 i started building a small React to do list with ai i did close to no code just retyped what ai gave me
+i practised some vanilla js concepts array methods tenray objects and arrays
 what do i do next?
-no idea i feel lost
+finish phase 0
 feeling : bad i dont understand React maybe its a js skill issue
-session duration 1 hour
+terrible i feel like i am moving backwards cant even do simple js stuff its annoying and frustrating and i hate it i have to do more to be better
+session duration 2 hours
