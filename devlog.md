@@ -565,3 +565,12 @@ finish phase 0
 feeling : bad i dont understand React maybe its a js skill issue
 terrible i feel like i am moving backwards cant even do simple js stuff its annoying and frustrating and i hate it i have to do more to be better
 session duration 2 hours
+
+Session 66
+14.06.2026
+what did i do today?
+roadmap up to phase 2.5 failed on 2.5 multiple times
+what do i do next?
+i dont know
+feeling i got a better grasp on react but ai did handhold me too much i tried 2.5 3 times today and only little did stick the whole practise i did in phase 0 didnt stick at all i can write it somewhat in vanilla js but when it comes to react and its endless ()[]{} stuff i blank out i cant remember it i cant make sense of it after the 3 hours i tried to work trough more but i cant i reached my mental capacity i cant focus at all even after breaks ai did annoy me as well since session was new and it didnt remember anything i dont know what to do phase 2.5 says i need to write it from scratch but i am not able to all i can manage is get an input field on screen and render the input to a p element and even that is shaky i dont know what to do how to learn i already had many many many tries with different roadmaps with different approuches i am still thinking i am not ready for react no matter what i do i hit walls constantly and i make very little progress in phase 0 i failed multiple times only did it because of ai handholding i am messed up and dont know what to do
+session duration 3 hours 14 minutes
