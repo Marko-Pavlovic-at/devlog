@@ -574,3 +574,12 @@ what do i do next?
 i dont know
 feeling i got a better grasp on react but ai did handhold me too much i tried 2.5 3 times today and only little did stick the whole practise i did in phase 0 didnt stick at all i can write it somewhat in vanilla js but when it comes to react and its endless ()[]{} stuff i blank out i cant remember it i cant make sense of it after the 3 hours i tried to work trough more but i cant i reached my mental capacity i cant focus at all even after breaks ai did annoy me as well since session was new and it didnt remember anything i dont know what to do phase 2.5 says i need to write it from scratch but i am not able to all i can manage is get an input field on screen and render the input to a p element and even that is shaky i dont know what to do how to learn i already had many many many tries with different roadmaps with different approuches i am still thinking i am not ready for react no matter what i do i hit walls constantly and i make very little progress in phase 0 i failed multiple times only did it because of ai handholding i am messed up and dont know what to do
 session duration 3 hours 14 minutes
+
+session 67
+15.06.2026
+what did i do today?
+i finished phase 2 and ended up with a quest log ugly but functional
+what do i do next?
+start phase 3
+feeling: okay did mistakes even with copying my reference i gave up on learning to code perfectly i will embrace all tools there is including ai life is too short for mastering a skill that isnt even my endgame
+duration : 1hour
