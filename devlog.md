@@ -583,3 +583,14 @@ what do i do next?
 start phase 3
 feeling: okay did mistakes even with copying my reference i gave up on learning to code perfectly i will embrace all tools there is including ai life is too short for mastering a skill that isnt even my endgame
 duration : 1hour
+
+Session 68
+16.06.2026
+what did i do today?
+did phase 3 up up to 3.3 i made an array hardcoded and used varibles to draw stats with reduce and filter
+i used props to render a card
+i used a component with map
+what do i do next?
+finish phase 3 and do a project with those thmeses
+feeling: fine but tired i relied on ai but thats fine i dont need to know perfect coding
+session duration 40 mins
