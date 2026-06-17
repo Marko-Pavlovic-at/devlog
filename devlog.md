@@ -594,3 +594,13 @@ what do i do next?
 finish phase 3 and do a project with those thmeses
 feeling: fine but tired i relied on ai but thats fine i dont need to know perfect coding
 session duration 40 mins
+
+Session 69
+17.06.2026
+what did i do today?
+started creating a website for a friend
+noticed its fun to build real things no learning path
+what do i do next?
+continue beauty saloon
+feeling great i felt comfortable in react probably because i did only import and tailwind css
+session duration 1 hour
