@@ -631,3 +631,12 @@ what do i do next?
 i dont know yet
 feeling frustrated i thought i finally found a good learning path since the landing page felt good with ai i did use it a lot since it was more important to finish it than to learn but ai failed me on the full to do list app i tried today
 session duration 40 min
+
+Session 73:
+21.06.2026
+what did i do today?
+i started making a game management system with ai help
+what do i do next ?
+continue with gms form component
+feeling: nonchalant a bit annoyed at ai but sadly thats the best way to learn because some of the things are impossible for me to figure out
+session duration: 2h 30 mins
