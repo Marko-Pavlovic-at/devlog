@@ -640,3 +640,21 @@ what do i do next ?
 continue with gms form component
 feeling: nonchalant a bit annoyed at ai but sadly thats the best way to learn because some of the things are impossible for me to figure out
 session duration: 2h 30 mins
+
+session 74
+23.06.2026
+what did i do today?
+started gms from scratch
+what do i do next?
+continue on gms
+feeling: frustrated with ai
+session duration 45 min
+
+Session 75
+24.06.2026
+what did i do today?
+contiued on gms
+what do i do next?
+keep working on gms
+feeling: okay a lot confused me filtered games array with include and cond rendering
+session duration 45 min
