@@ -658,3 +658,12 @@ what do i do next?
 keep working on gms
 feeling: okay a lot confused me filtered games array with include and cond rendering
 session duration 45 min
+
+session 76
+24.06.2026
+what did i do today
+worked on gms added input and add game button
+what do i do next?
+make form for add games
+feeling: tired
+session duration 30 mins
