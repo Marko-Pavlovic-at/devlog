@@ -14,6 +14,17 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 83
+Project : expense tracker
+10.9.2026
+what did i do today?
+- wrote calcBalance
+what do i do next?
+- delete logic
+feeling: neutral
+session duration: 50 mins
+
+
 session 82
 Project Expense Tracker
 06.09.2026
