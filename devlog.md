@@ -14,6 +14,18 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+
+session 84
+Project : Expense Tracker
+12.9.2026
+what did i do today?
+- wrote delete logic
+- started edit logic
+what do i do next?
+- finish edit logic
+feeling: felt like failing i did steal the filter line from an old project and for edit claude code walked me trough because i am too stupid to figure it out myself
+session duration: 1h 6mins
+
 session 83
 Project : expense tracker
 10.9.2026
