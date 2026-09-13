@@ -14,6 +14,16 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 85
+Project : Expense-Tracker, Task-Manager
+13.9.2026
+what did i do today?
+- finished expense-tracker MVP
+- wrote plan for task-manager
+what do i do next?
+- add basic CSS to Task-Manager
+feeling: bad annoyed relied on ai for everything sick of expense Tracker, React setup was annoying too 
+session duration: 1h 42mins
 
 session 84
 Project : Expense Tracker
