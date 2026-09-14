@@ -14,6 +14,18 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 86
+Project : Task-Manager
+14.9.2026
+what did i do today?
+- Project Card can be added
+what do i do next?
+- dont suck
+feeling: Terrible looked at the time wanted the session to end quickly all the time struggled with react and css had to rely on claude code which also sucked a lot of wrong answers that only put me further away in what i wanted 
+wanted to do longer sessions but cant endure it
+session duration: 1h 20 minutes
+
+
 session 85
 Project : Expense-Tracker, Task-Manager
 13.9.2026
