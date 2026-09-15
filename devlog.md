@@ -14,6 +14,18 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 87
+Project : Task Manager
+15.09.2026
+what did i do today?
+- restarted task manager
+- rendered project cards
+what do i do next?
+- click inside Project card
+feeling: annoyed at the beginning neutral at the end
+session duration: 1h 10 min
+
+
 session 86
 Project : Task-Manager
 14.9.2026
