@@ -14,6 +14,17 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 88
+Project : Task Manager
+16.09.2026
+what did i do today?
+- let claude code guide me trough the task manager
+what do i do next?
+- simple to do list
+feeling: bad session got overwhelmed the task manager was too big claude code kept trying to convince me it wasnt when i was constantly overwhelmed i dont know if a simple to do list is even a valueable first project i dont know anything right now
+session duration: 40 mins
+
+
 session 87
 Project : Task Manager
 15.09.2026
