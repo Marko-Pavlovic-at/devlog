@@ -14,6 +14,17 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 89
+Project : to do list
+17.09.2026
+what did i do today?
+- started to do list
+what do i do next?
+- make the edit logic work
+feeling: good session did a lot on my own but react confuses me i messed up filter a bit and ternary overloaded me to the point where i couldnt even think clearly
+session duration: 1 hour 30 mins
+
+
 session 88
 Project : Task Manager
 16.09.2026
