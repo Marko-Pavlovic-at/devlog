@@ -14,6 +14,16 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 90
+Project : To do List
+18.09.2026
+what did i do today?
+- finished todolist
+what do i do next?
+- new Project
+feeling: terrible i basically didnt understand anything after the edit this was supposed to be an easy Project but it was still too hard to me i blank out on ternary and complicated react syntax and on many things in general
+session duration: 50 mins
+
 session 89
 Project : to do list
 17.09.2026
