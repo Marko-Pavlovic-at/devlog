@@ -14,6 +14,16 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 91
+Project : teambuilder
+20.09.2026
+what did i do today?
+- started teambuilder
+what do i do next?
+- edit in teambuilder
+feeling: terrible cant do anything in react myself
+session duration: 50 mins
+
 session 90
 Project : To do List
 18.09.2026
