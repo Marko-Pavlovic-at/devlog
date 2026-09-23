@@ -14,6 +14,16 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 95
+Project : pull tracker
+24.9.2026
+what did i do today?
+- started pull tracker
+what do i do next?
+- work on astrameath
+feeling: terribnle at the beginning better towards the end realized some impoortant things 
+session duration: 1 hour
+
 session 94
 Project : none
 23.09.2026
