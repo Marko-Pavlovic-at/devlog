@@ -14,6 +14,17 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 94
+Project : none
+23.07.2026
+what did i do today?
+- arrow function practise
+what do i do next?
+- no idea 
+feeling: terrible did 2 taks failed on the third got overwhelmed really fast i dont know why 
+session duration: 30 mins
+
+
 session 93
 Project : Teambuilder/ Scrimba
 21.09.2026
