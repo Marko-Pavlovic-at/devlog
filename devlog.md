@@ -14,6 +14,16 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 96
+Project : react-learning
+24.09.2026
+what did i do today?
+- started new react learning programm
+what do i do next?
+- no idea
+feeling: better than yesterday still terrible i feel useless and stupid i dont know how people learn react i clearly cant i give up on learning and just do stuff over and over again until i can use it and build astrameath
+session duration: 1 hour
+
 session 95
 Project : pull tracker
 24.9.2026
