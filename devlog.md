@@ -7,7 +7,6 @@ what did i do today?
 -
 what do i do next?
 -
-feeling:
 session duration:
 
 ===============================================================
@@ -22,7 +21,6 @@ what did i do today?
 - learn react
 what do i do next?
 - learn react
-feeling: none
 session duration: 40 mins
 
 session 97
@@ -35,7 +33,6 @@ what did i do today?
 - wrote plan for step 1 add tasks
 what do i do next?
 - execute step 1 
-feeling: better than the react learning but i am somehow still capped at one hour i want to incerase this 
 session duration: 1 hour
 
 session 96
@@ -45,7 +42,6 @@ what did i do today?
 - started new react learning programm
 what do i do next?
 - no idea
-feeling: better than yesterday still terrible i feel useless and stupid i dont know how people learn react i clearly cant i give up on learning and just do stuff over and over again until i can use it and build astrameath
 session duration: 1 hour
 
 session 95
@@ -55,7 +51,6 @@ what did i do today?
 - started pull tracker
 what do i do next?
 - work on astrameath
-feeling: terribnle at the beginning better towards the end realized some impoortant things 
 session duration: 1 hour
 
 session 94
@@ -65,7 +60,6 @@ what did i do today?
 - arrow function practise
 what do i do next?
 - no idea 
-feeling: terrible did 2 taks failed on the third got overwhelmed really fast i dont know why 
 session duration: 30 mins
 
 
@@ -77,7 +71,6 @@ what did i do today?
 - started scrimba
 what do i do next?
 - scrimba
-feeling: terrible i dont know how to do anything in react and decided to do scrimba instead of projects
 session duration: 30 mins
 
 session 92
@@ -87,7 +80,6 @@ what did i do today?
 - edit
 what do i do next?
 - local storage
-feeling: terrible failed i am too stupid for react let claude code do evrything
 session duration: 50 mins
 
 
@@ -98,7 +90,6 @@ what did i do today?
 - started teambuilder
 what do i do next?
 - edit in teambuilder
-feeling: terrible cant do anything in react myself
 session duration: 50 mins
 
 session 90
@@ -108,7 +99,6 @@ what did i do today?
 - finished todolist
 what do i do next?
 - new Project
-feeling: terrible i basically didnt understand anything after the edit this was supposed to be an easy Project but it was still too hard to me i blank out on ternary and complicated react syntax and on many things in general
 session duration: 50 mins
 
 session 89
@@ -118,7 +108,6 @@ what did i do today?
 - started to do list
 what do i do next?
 - make the edit logic work
-feeling: good session did a lot on my own but react confuses me i messed up filter a bit and ternary overloaded me to the point where i couldnt even think clearly
 session duration: 1 hour 30 mins
 
 
@@ -129,7 +118,6 @@ what did i do today?
 - let claude code guide me trough the task manager
 what do i do next?
 - simple to do list
-feeling: bad session got overwhelmed the task manager was too big claude code kept trying to convince me it wasnt when i was constantly overwhelmed i dont know if a simple to do list is even a valueable first project i dont know anything right now
 session duration: 40 mins
 
 
@@ -141,7 +129,6 @@ what did i do today?
 - rendered project cards
 what do i do next?
 - click inside Project card
-feeling: annoyed at the beginning neutral at the end
 session duration: 1h 10 min
 
 
@@ -152,7 +139,6 @@ what did i do today?
 - Project Card can be added
 what do i do next?
 - dont suck
-feeling: Terrible looked at the time wanted the session to end quickly all the time struggled with react and css had to rely on claude code which also sucked a lot of wrong answers that only put me further away in what i wanted 
 wanted to do longer sessions but cant endure it
 session duration: 1h 20 minutes
 
@@ -165,7 +151,6 @@ what did i do today?
 - wrote plan for task-manager
 what do i do next?
 - add basic CSS to Task-Manager
-feeling: bad annoyed relied on ai for everything sick of expense Tracker, React setup was annoying too 
 session duration: 1h 42mins
 
 session 84
@@ -176,7 +161,6 @@ what did i do today?
 - started edit logic
 what do i do next?
 - finish edit logic
-feeling: felt like failing i did steal the filter line from an old project and for edit claude code walked me trough because i am too stupid to figure it out myself
 session duration: 1h 6mins
 
 session 83
@@ -186,7 +170,6 @@ what did i do today?
 - wrote calcBalance
 what do i do next?
 - delete logic
-feeling: neutral
 session duration: 50 mins
 
 
@@ -198,7 +181,6 @@ what did i do today?
 - added minor error handling
 what do i do next?
 - write balance logic
-feeling: neutral slighly annoyed by claude
 session duration: 1h 30 mins
 
 
@@ -212,7 +194,6 @@ what did i do today?
 - grid layout
 what do i do next?
 - when user clicks on submit something gets rendered
-feeling: lack of focus rely on claude for CSS Stuff especially Grid
 session duration: 1h 7 mins
 
 
@@ -223,7 +204,6 @@ what did i do today?
 - wrote plan for expense Tracker
 what do i do next?
 - start with the Setup
-feeling: neutral / tired
 session duration: 36 mins
 
 session 79
@@ -243,7 +223,6 @@ what do i do next?
 
 session duration 1h 21 mins
 
-feeling annoyed with css
 
 session 78
 04.07.2026
@@ -251,7 +230,6 @@ what did i do today?
 came back after a week break. finished wiring the gameform component, the add button now works through the callback prop. the step that made me shut down twice is done
 what do i do next?
 delete the old inline add form from App.tsx (lines 44-67, from the add game label to the p with {title}), then remove the leftover title state
-feeling: sick of coding even after the pause, but showed up anyway and it worked
 session duration 10 mins
 
 session 77
@@ -259,7 +237,6 @@ session 77
 what did i do today?
 continue gms
 what do i do next continue gms
-feeling : bad got stuck on the same wall as last time
 session duration 20mins
 
 session 76
@@ -268,7 +245,6 @@ what did i do today
 worked on gms added input and add game button
 what do i do next?
 make form for add games
-feeling: tired
 session duration 30 mins
 
 Session 75
@@ -277,7 +253,6 @@ what did i do today?
 contiued on gms
 what do i do next?
 keep working on gms
-feeling: okay a lot confused me filtered games array with include and cond rendering
 session duration 45 min
 
 session 74
@@ -286,7 +261,6 @@ what did i do today?
 started gms from scratch
 what do i do next?
 continue on gms
-feeling: frustrated with ai
 session duration 45 min
 
 Session 73:
@@ -295,7 +269,6 @@ what did i do today?
 i started making a game management system with ai help
 what do i do next ?
 continue with gms form component
-feeling: nonchalant a bit annoyed at ai but sadly thats the best way to learn because some of the things are impossible for me to figure out
 session duration: 2h 30 mins
 
 Session 72
@@ -304,7 +277,6 @@ what did i do today?
 started on a to do list but ai learning failed
 what do i do next?
 i dont know yet
-feeling frustrated i thought i finally found a good learning path since the landing page felt good with ai i did use it a lot since it was more important to finish it than to learn but ai failed me on the full to do list app i tried today
 session duration 40 min
 
 Session 71
@@ -313,7 +285,6 @@ what did i do today?
 finished beauty saloon or better said ai fixed it i dont feel like coding today
 what do i do next?
 rest
-feeling tired
 session duration 20 mins
 
 Session 70
@@ -322,7 +293,6 @@ what did i do today?
 worked on beauty saloon
 what do i do next ?
 continue working on beauty saloon
-feeling: neutral lacking focus
 session duration 40 min
 
 Session 69
@@ -332,7 +302,6 @@ started creating a website for a friend
 noticed its fun to build real things no learning path
 what do i do next?
 continue beauty saloon
-feeling great i felt comfortable in react probably because i did only import and tailwind css
 session duration 1 hour
 
 Session 68
@@ -343,7 +312,6 @@ i used props to render a card
 i used a component with map
 what do i do next?
 finish phase 3 and do a project with those thmeses
-feeling: fine but tired i relied on ai but thats fine i dont need to know perfect coding
 session duration 40 mins
 
 session 67
@@ -352,7 +320,6 @@ what did i do today?
 i finished phase 2 and ended up with a quest log ugly but functional
 what do i do next?
 start phase 3
-feeling: okay did mistakes even with copying my reference i gave up on learning to code perfectly i will embrace all tools there is including ai life is too short for mastering a skill that isnt even my endgame
 duration : 1hour
 
 Session 66
@@ -361,7 +328,6 @@ what did i do today?
 roadmap up to phase 2.5 failed on 2.5 multiple times
 what do i do next?
 i dont know
-feeling i got a better grasp on react but ai did handhold me too much i tried 2.5 3 times today and only little did stick the whole practise i did in phase 0 didnt stick at all i can write it somewhat in vanilla js but when it comes to react and its endless ()[]{} stuff i blank out i cant remember it i cant make sense of it after the 3 hours i tried to work trough more but i cant i reached my mental capacity i cant focus at all even after breaks ai did annoy me as well since session was new and it didnt remember anything i dont know what to do phase 2.5 says i need to write it from scratch but i am not able to all i can manage is get an input field on screen and render the input to a p element and even that is shaky i dont know what to do how to learn i already had many many many tries with different roadmaps with different approuches i am still thinking i am not ready for react no matter what i do i hit walls constantly and i make very little progress in phase 0 i failed multiple times only did it because of ai handholding i am messed up and dont know what to do
 session duration 3 hours 14 minutes
 
 Session 65
@@ -371,8 +337,6 @@ i started building a small React to do list with ai i did close to no code just 
 i practised some vanilla js concepts array methods tenray objects and arrays
 what do i do next?
 finish phase 0
-feeling : bad i dont understand React maybe its a js skill issue
-terrible i feel like i am moving backwards cant even do simple js stuff its annoying and frustrating and i hate it i have to do more to be better
 session duration 2 hours
 
 Session 65
@@ -381,7 +345,6 @@ what did i do today?
 finished phase 1 of my react roadmap created my first project a gallery
 what do i do next?
 start phase 2
-feeling: good but ai is annoying as always
 duration : 1 hour
 
 Session 64
@@ -389,7 +352,6 @@ what did i do today?
 created counter and greeting and had a lot of frustration
 what do i do next?
 start my new react learning path
-feeling react feels extremly weird i am frustrated
 session duration 1h 20mins
 
 Session 63
@@ -397,7 +359,6 @@ What did I do today?
 I got started on react
 What do I do next?
 Build to do list
-Feeling good
 Session duration 20 min
 
 Session 62
@@ -409,7 +370,6 @@ i made the render work
 what do i do next?
 i need to find a way to reach the li element so i can apply style to it
 i need to find a way to reach the delete button and use array.filter to delete an item
-feeling: better than last session i came farther than usual alone but i am still missing things
 session duration 2h 28 mins
 
 Session 61
@@ -421,7 +381,6 @@ i will rely more on ai
 i started building a to do list
 what do i do next?
 finish to do list
-feeling okay ish just frustrated with myself need more patience
 session duration 2hour 30 mins
 
 session 60
@@ -431,7 +390,6 @@ started new plan 4 project for each thing i feel weak like event handling
 did first project in the plan
 what do i do next?
 event handling project 2
-feeling no emotions just tired
 session duration 30mins
 
 session 59
@@ -440,7 +398,6 @@ what did i do today?
 i did a skill assasment ai annoyed me so i stopped and deleted everything
 what do i do next?
 figure out how i move forward with coding
-feeling: bad
 session duration 1h 30 minuten
 
 Session 58
@@ -450,7 +407,6 @@ minimal coding finished spellbook i let ai write the code for me
 fresh start deleted everything
 what do i do next?
 start project 1
-feeling: annoyed
 session duration 30 mins
 
 Session 57
@@ -459,7 +415,6 @@ what did i do today?
 finished dragon hoard failed on next project miserably
 what do i do next?
 i dont know
-feeling : terrible i dont know if i should keep coding i feel miserable every time
 duration 1 hour 40 mins
 
 session 56
@@ -469,7 +424,6 @@ i worked on the dragon hoard project
 i did the basic game loop the gold logic the lost logic
 what do i do next?
 fix the best run score and add a reset button
-feeling: session was good during the end it got frustrating
 duration : 1hour 10 mins
 
 session 55
@@ -481,7 +435,6 @@ battle arena thought me my current skill gaps so i restructured my current learn
 i started with dragon hoard project i did the basic setup but i am stopping here because i am overloaded and cant focus
 what do i do next?
 i will write the next steps in plain english for the dragon hoard project
-feeling: frustrating hard but good session i also took plently of breaks
 session duration : 2 hours 32mins
 
 Session 54
@@ -492,7 +445,6 @@ render card from user input with array object and for each
 saved to localstorage
 what do i do next?
 fix local storage and style the card
-feeling: good session most things i could do alone with little help but completly failed on local storage i hate it i decide not to learn it just copy and paste the code i wont use local storage later anyway since i will use a database in the future
 session duration : 1hour
 
 Session 53
@@ -501,7 +453,6 @@ what did i do today ?
 finished rock paper scissors project
 what do i do next?
 rpg quest log project
-feeling: good session i was calm and solved all issues mostly alone
 session duration 1h
 
 Session 52
@@ -521,7 +472,6 @@ What did i do today?
 i finished the dice battle project
 what do i do next?
 rock paper sciccors project
-feeling: best session in a while i struggled yes but in the end i figured everything out only thing i forgot how to access object property in array
 session duration 1 hour 40 mins
 
 Session 50
@@ -530,7 +480,6 @@ what did i do today?
 added new game button and lose condition
 what do i do next?
 keep player score
-feeling: i dont file like coding today my brain dosent work ai frustrated me
 session duration 30min
 
 Session 49
@@ -539,7 +488,6 @@ what did i do today?
 started a new learning path i created a guessing game
 what do i do next ?
 make bonus on guessing game create a new game button
-feeling: good session a bit frustrated with mdn web docs i have trouble with many things at once
 session duration 2hours 30 mins
 
 session 48
@@ -548,8 +496,6 @@ what did i do today?
 set up an new folder i will try to create a simple to do list app
 what do i do next?
 work on my to do list app
-feeling:
-pretty neutral just feeling tired
 session duration 1hour
 
 session 47
@@ -558,7 +504,6 @@ what did i do today?
 i tried a new learning path with ai but less complicated but it didnt work i dont know why i always come back to ai i need to stop
 what do i do next?
 i dont know what to do anymore
-feeling: bad
 session duration 30 mins
 
 Session 46
@@ -567,7 +512,6 @@ i started a new learning path a new folder i did some basics like variables tenr
 what do i do next?
 first project of my new path
 session duration 50mins
-feeling: quite okay better than last time i still didnt get a lot of stuff on the basics big projects were to soon for me i need to grind more
 
 Session 45
 19.5.2026
@@ -578,7 +522,6 @@ managed to get user input into alert with button click
 what do i do next?
 not sure how to move forward feel lost
 session duration 30 mins
-feeling: terrible i feel lost and stupid
 
 session 44
 18.5.2026
@@ -589,7 +532,6 @@ make github repo for habit tracker
 figure out how to paste user input into a dropdown
 finish form logic and test it out
 session duration: 1 hour
-feeling: not much feeling just sorted a few things out and started a new project
 
 Session 43
 18.5.2026
@@ -597,7 +539,6 @@ what did i do today?
 nothing but failure
 what do i do next? fuck ai and write a new app on my own
 session duration 50min
-feeling: terrible did only fail ai hand hold me with everything i am done i will throw away the time tracker i keep the code but i start something new i will create a habit tracker with stats i wont ask ai i wont google i will only look up syntax and try it so many times until i get it
 
 Session 42
 17.5.2026
@@ -606,7 +547,6 @@ wrote code to render a card with max time spend failed a lot i dont understand a
 what do i do next?
 finish toogle button and write rest of timed stats into the card.
 session duration 1 hour
-feeling: resigned i will keep going but i dont feel like i am getting anywhere i will just keep going while ai holds my hand over and over and over again and hope it clicks someday i will grind like this until i get it no matter how long it takes
 
 Session 41:
 16.5.2026
@@ -615,7 +555,6 @@ at the start a lot of theory from last session i tried to comment and understand
 what do i do next?
 keep working on renderCategoryCards function
 session duration: 1 hour 10 minutes
-feeling: i feel like i struggle with things i already did i have big issues coneccting things ai confused me a lot today which cannot be helped i have no real teacher and google would confuse me probably even more i need more repetition far more repitition i still have a long way to go i need to pull myself together and do more coding i feel how frustration starts to build like in earlier sessions but i am able to catch myself and focus but even if i focus the result isnt always optimal i dont understand why i could do so much last session but so little this session from an understanding point of view
 
 session 40:
 14.5.2026
@@ -624,7 +563,6 @@ i started working on my time tracker app wrote the timer with local storage with
 what do i do tommorow :
 review my code review the stop function and explain it to claude describe what each line does comment for things that arent obvious
 session duration 3 hours
-feeling: the session didnt feel terrible i didnt force it i allowed myself to use ai a lot i am not sure yet if thats a good or bad thing i can only figure that out when i do more projects if i made 3 projects and rely on every little thing on ai then i know i need to change something.
 
 Session 39 :
 12.5.2026
@@ -633,7 +571,6 @@ tried to work on math arena failed cant do the most simple things i rewrite pseu
 what should i do next?
 i dont know give up? accept that i am not fit to be a programmer ? try game dev instead?d
 session duration 30 min
-feeling: terrible i feel completly useless.
 
 Session 38
 10.5.2026
@@ -642,7 +579,6 @@ i started the math arena game i did the setup html structure css styling and a j
 what do i do next?
 continue project start with game start function
 session duration 30min
-feeling: i feel tired i slep well ate well and did exercise but somehow i feel tired and cant focus properly
 
 Session 37
 9.5.2026
@@ -651,7 +587,6 @@ i tried to build the stopwatch mini project alone again but i failed i did rely 
 What do i do next?
 i tackle a new project a math game where a math problem plops up and the user has 60 seconds to solve it this one is even bigger than the stopwatch.
 session duration: 1:30 h
-feeling : not good the last few sessions were terrible i dont remember the last good session i feel overwhelmed constantly i did rely on ai again my head hurts and i feel worse about myself each time i start coding for now i only can push trough i did take a break the last few days but i dont think it helped.
 
 Session 36
 6.5.2026
@@ -660,7 +595,6 @@ i did the stopwatch exercise i didnt want to use ai since it told me not the ent
 what is up next ?
 try and write the stopwatch again alone
 session duration : 1 hour
-feeling:
 a big part of my fails come from lack of sleep i need to adress this its hard to work a full time job and learn to code at the same time i feel stuck not just in code but in life the dayjob has also a lot of information i need to process but i also cannot stagnate my coding since its eqally important if not more i have to think about what i should do but the main issue remains my learning is inneficent it was so even before my dayjob
 
 Session 35
@@ -670,7 +604,6 @@ i did the mini project counter
 what do i do next?
 i will do the mini project stopwatch
 session duration: 30 min
-feeling:
 very tired could barely focus i have a full time job and i need to get used to it yesterday was the first day in it.
 
 session 34
@@ -704,7 +637,6 @@ second half: restructured how i learn. new rules:
 what do i do next?
 e19 — setTimeout, 15 min
 
-feeling: burned out from the actual session, but cautious-hopeful about the new structure. trial week starts here.
 
 session 32
 30.4.26
@@ -713,7 +645,6 @@ e17 task 1 and 2 are complete i used event listeners and event delegation
 What do i do next?
 e17 task3
 duration : 40 min
-feeling: terrible session i got heated i couldnt focus google confused me i dont understand event listener at all i got extremly fruatrated part of this is ais fault because it kept asking me to show code when it could have read it itself. i think thats the worst session so far it was also very short i feel dumb and pathetic for not beeing able to do anything by myself and even if i try i make it worse not better i dont know how to manage this at all with ai i get the solution somehow but i feel like i am not learning anything i am thinking about to skip the exercises go straight to the projects and to brute force it completly without ai until i get it.
 
 Session 31
 29.4.26
@@ -722,7 +653,6 @@ e16 all exercises completed, e17 tasks 1 started i used query selector i used te
 What do i do next?
 continue with e17
 session duration 1 hour
-feeling:
 good session didnt feel overwhelming i am still making beginner mistakes like today i created an variable inside the event listenter it gets reset every time i need to do it outside aside from that the things i used today werent hard to understand but i need to get used to the syntax and its a good thing i finally see my js in action
 
 Session 30
@@ -732,7 +662,6 @@ i finished my game project and thought about my learning process i need more pra
 what will i do next ?
 start learning and practising dom manipulation
 duration: 40m
-feeling: short session running rounds was fairly easy since most of the logic was in the game function i just got confused with async for the most part
 
 session 29
 27.4.2026
@@ -745,7 +674,6 @@ the round loop works: player can check status, attack, heal — enemy takes dama
 what do i do next?
 finish the game: add win/lose messages after the loop, then think about multiple floors/rooms
 session duration: 1 hour
-feeling: async is hard to wrap your head around but writing it and debugging it hands-on made it click more than reading would have
 i have an issue keeping things in my head need to learn to write pseudo code
 
 session 28
@@ -756,7 +684,6 @@ i used classes arrays with objects import export random.math arrow functions des
 what do i do next ?
 i will write the first round in game.js first i need to export from player and enemy.js
 session duration 1 hour
-feeling: the first part of the session was easy i just had to repeat what i already did in player.js only with enemies creating the function getting a random number accessing what i need was extremly difficult and frustrating i forgot many things.
 
 session 27
 25.4.2026
@@ -767,7 +694,6 @@ work on enemies.js
 work on combat.js
 export and import functions and test a run in game.js
 Session Duration 1 hour 10 minutes
-Feeling: solid i can use classes with different skills like if else etc my logic is sometimes not correct i forget many things when i test my code i forgot important things like what if player takes two times damage in a row.
 the first code block i wrote there was a lot of things wrong with it i didnt notice it on myself only with claude code
 
 session 26
