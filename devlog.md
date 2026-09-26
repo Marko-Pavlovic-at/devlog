@@ -14,6 +14,30 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+
+session 98
+Project : learn react
+26.09.2026
+what did i do today?
+- learn react
+what do i do next?
+- learn react
+feeling: none
+session duration: 40 mins
+
+session 97
+Project : Astrameath
+25.09.2026
+what did i do today?
+- created new folder for non learning projects
+- wrote plan for astrameath
+- did the basic vanilla setup
+- wrote plan for step 1 add tasks
+what do i do next?
+- execute step 1 
+feeling: better than the react learning but i am somehow still capped at one hour i want to incerase this 
+session duration: 1 hour
+
 session 96
 Project : react-learning
 24.09.2026
