@@ -13,6 +13,18 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 100
+Project : task-manager
+27.09.2026
+what did i do today?
+- worked on task manager
+- submit with enter
+- checkbox logic
+what do i do next?
+- create a new react app call it sandbox no repo needed and rebuild task manager with components
+session duration: 1 hour
+
+
 session 99
 Project : task-manager
 27.09.2026
