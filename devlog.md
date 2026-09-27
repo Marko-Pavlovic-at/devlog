@@ -13,6 +13,14 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 99
+Project : task-manager
+27.09.2026
+what did i do today?
+- wrote add logic and delete logic for task-manager
+what do i do next?
+- work on edit logic
+session duration: 40 mins
 
 session 98
 Project : learn react
