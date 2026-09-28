@@ -1,230 +1,250 @@
 TEMPLATE — copy this block for a new entry, paste it right below this line
 
 session N
-Project : 
+Project :
 DD.MM.YYYY
 what did i do today?
--
-what do i do next?
--
-session duration:
+
+- what do i do next?
+- session duration:
 
 ===============================================================
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 101
+Project : Sandbox
+28.09.2026
+what did i do today?
+
+- tested things in a react sandbox
+  what do i do next?
+- look at task manager and think about what to port to components if any
+  session duration: 40 mins
+
 session 100
 Project : task-manager
 27.09.2026
 what did i do today?
+
 - worked on task manager
 - submit with enter
 - checkbox logic
-what do i do next?
+  what do i do next?
 - create a new react app call it sandbox no repo needed and rebuild task manager with components
-session duration: 1 hour
-
+  session duration: 1 hour
 
 session 99
 Project : task-manager
 27.09.2026
 what did i do today?
+
 - wrote add logic and delete logic for task-manager
-what do i do next?
+  what do i do next?
 - work on edit logic
-session duration: 40 mins
+  session duration: 40 mins
 
 session 98
 Project : learn react
 26.09.2026
 what did i do today?
+
 - learn react
-what do i do next?
+  what do i do next?
 - learn react
-session duration: 40 mins
+  session duration: 40 mins
 
 session 97
 Project : Astrameath
 25.09.2026
 what did i do today?
+
 - created new folder for non learning projects
 - wrote plan for astrameath
 - did the basic vanilla setup
 - wrote plan for step 1 add tasks
-what do i do next?
-- execute step 1 
-session duration: 1 hour
+  what do i do next?
+- execute step 1
+  session duration: 1 hour
 
 session 96
 Project : react-learning
 24.09.2026
 what did i do today?
+
 - started new react learning programm
-what do i do next?
+  what do i do next?
 - no idea
-session duration: 1 hour
+  session duration: 1 hour
 
 session 95
 Project : pull tracker
 24.9.2026
 what did i do today?
+
 - started pull tracker
-what do i do next?
+  what do i do next?
 - work on astrameath
-session duration: 1 hour
+  session duration: 1 hour
 
 session 94
 Project : none
 23.09.2026
 what did i do today?
-- arrow function practise
-what do i do next?
-- no idea 
-session duration: 30 mins
 
+- arrow function practise
+  what do i do next?
+- no idea
+  session duration: 30 mins
 
 session 93
 Project : Teambuilder/ Scrimba
 21.09.2026
 what did i do today?
+
 - finished teambuilder
 - started scrimba
-what do i do next?
+  what do i do next?
 - scrimba
-session duration: 30 mins
+  session duration: 30 mins
 
 session 92
 Project : teammbuilder
 20.09.2026
 what did i do today?
-- edit
-what do i do next?
-- local storage
-session duration: 50 mins
 
+- edit
+  what do i do next?
+- local storage
+  session duration: 50 mins
 
 session 91
 Project : teambuilder
 20.09.2026
 what did i do today?
+
 - started teambuilder
-what do i do next?
+  what do i do next?
 - edit in teambuilder
-session duration: 50 mins
+  session duration: 50 mins
 
 session 90
 Project : To do List
 18.09.2026
 what did i do today?
+
 - finished todolist
-what do i do next?
+  what do i do next?
 - new Project
-session duration: 50 mins
+  session duration: 50 mins
 
 session 89
 Project : to do list
 17.09.2026
 what did i do today?
-- started to do list
-what do i do next?
-- make the edit logic work
-session duration: 1 hour 30 mins
 
+- started to do list
+  what do i do next?
+- make the edit logic work
+  session duration: 1 hour 30 mins
 
 session 88
 Project : Task Manager
 16.09.2026
 what did i do today?
-- let claude code guide me trough the task manager
-what do i do next?
-- simple to do list
-session duration: 40 mins
 
+- let claude code guide me trough the task manager
+  what do i do next?
+- simple to do list
+  session duration: 40 mins
 
 session 87
 Project : Task Manager
 15.09.2026
 what did i do today?
+
 - restarted task manager
 - rendered project cards
-what do i do next?
+  what do i do next?
 - click inside Project card
-session duration: 1h 10 min
-
+  session duration: 1h 10 min
 
 session 86
 Project : Task-Manager
 14.9.2026
 what did i do today?
-- Project Card can be added
-what do i do next?
-- dont suck
-wanted to do longer sessions but cant endure it
-session duration: 1h 20 minutes
 
+- Project Card can be added
+  what do i do next?
+- dont suck
+  wanted to do longer sessions but cant endure it
+  session duration: 1h 20 minutes
 
 session 85
 Project : Expense-Tracker, Task-Manager
 13.9.2026
 what did i do today?
+
 - finished expense-tracker MVP
 - wrote plan for task-manager
-what do i do next?
+  what do i do next?
 - add basic CSS to Task-Manager
-session duration: 1h 42mins
+  session duration: 1h 42mins
 
 session 84
 Project : Expense Tracker
 12.9.2026
 what did i do today?
+
 - wrote delete logic
 - started edit logic
-what do i do next?
+  what do i do next?
 - finish edit logic
-session duration: 1h 6mins
+  session duration: 1h 6mins
 
 session 83
 Project : expense tracker
 10.9.2026
 what did i do today?
-- wrote calcBalance
-what do i do next?
-- delete logic
-session duration: 50 mins
 
+- wrote calcBalance
+  what do i do next?
+- delete logic
+  session duration: 50 mins
 
 session 82
 Project Expense Tracker
 06.09.2026
 what did i do today?
+
 - made it so the submit button renderns logs in the dome
 - added minor error handling
-what do i do next?
+  what do i do next?
 - write balance logic
-session duration: 1h 30 mins
-
+  session duration: 1h 30 mins
 
 session 81
 Project: Expense Tracker
 06.09.2026
 what did i do today?
+
 - I did the HTML Structure
 - Set Root vars
 - basic styling
 - grid layout
-what do i do next?
+  what do i do next?
 - when user clicks on submit something gets rendered
-session duration: 1h 7 mins
-
+  session duration: 1h 7 mins
 
 session 80
 Project Expense Tracker
 05.09.2026
 what did i do today?
+
 - wrote plan for expense Tracker
-what do i do next?
+  what do i do next?
 - start with the Setup
-session duration: 36 mins
+  session duration: 36 mins
 
 session 79
 19.7.2026
@@ -242,7 +262,6 @@ what do i do next?
 - display array to the screen
 
 session duration 1h 21 mins
-
 
 session 78
 04.07.2026
@@ -656,7 +675,6 @@ second half: restructured how i learn. new rules:
 
 what do i do next?
 e19 — setTimeout, 15 min
-
 
 session 32
 30.4.26
