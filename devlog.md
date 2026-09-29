@@ -12,6 +12,18 @@ what did i do today?
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 102
+Project : Task-Manager
+29.09.2026
+what did i do today?
+
+- restarted Task Manager to see how far i get without ai
+- could do more than yesterday did everything including components up to cond render and checkbox
+  what do i do next?
+- finish the checkbox
+- edit logic(the biggest hurde for me)
+  session duration: 2hours
+
 session 101
 Project : Sandbox
 28.09.2026
