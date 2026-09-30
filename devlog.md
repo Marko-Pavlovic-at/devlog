@@ -12,6 +12,33 @@ what did i do today?
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 104
+Project : Task-Manager
+30.09.2026
+what did i do today?
+
+- worked on task-manager
+- restarted task manager because i relied to much on claude and i was extremly confused
+- wrote a plan and started working on task manager
+  what do i do next?
+- figure out how to render the tasklist with my new file structure
+
+- session duration: 1h 57 mins
+
+session 103
+Project : Scrimba
+29.09.2026
+what did i do today?
+
+- started scrimba course finished html section
+- started css section
+- deployed a page on netlify
+- added a scrimba folder where i will put my main scrimba projects only the big ones
+
+- what do i do next?
+- finish css
+- session duration: 1 hour 57 minutes
+
 session 102
 Project : Task-Manager
 29.09.2026
