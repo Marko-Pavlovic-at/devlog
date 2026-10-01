@@ -5,12 +5,34 @@ Project :
 DD.MM.YYYY
 what did i do today?
 
-- what do i do next?
-- session duration:
+what do i do next?
+session duration:
 
 ===============================================================
 newest entries first — oldest at the bottom
 ===============================================================
+
+session 106
+Project : Task-manager
+01.10.2026
+what did i do today?
+
+- add button
+- render
+- error msg
+  what do i do next?
+- figure out how to do handleTask
+  session duration: 50 min
+
+session 105
+Project : Scrimba
+30.09.2026
+what did i do today?
+
+- Scrimba finished all HTML and CSS Lectures
+  what do i do next?
+- first HTML CSS Project
+  session duration: 2h
 
 session 104
 Project : Task-Manager
