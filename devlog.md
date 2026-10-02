@@ -12,6 +12,16 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 107
+Project : task-manager
+02.10.2026
+what did i do today?
+
+- nothing useful
+  what do i do next?
+- throw away the task-manager
+  session duration: 50 min
+
 session 106
 Project : Task-manager
 01.10.2026
