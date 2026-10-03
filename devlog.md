@@ -12,7 +12,7 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
-Session 108
+Session 94
 Date 03.10.2026
 Project Smoke-Tracker / Scrimba
 what did i do today?
@@ -23,7 +23,7 @@ what did i do today?
 - smoke tracker logging
   Duration 2h 12 minutes
 
-session 107
+session 93
 Project : task-manager
 02.10.2026
 what did i do today?
@@ -33,7 +33,7 @@ what did i do today?
 - throw away the task-manager
   session duration: 50 min
 
-session 106
+session 92
 Project : Task-manager
 01.10.2026
 what did i do today?
@@ -45,56 +45,38 @@ what did i do today?
 - figure out how to do handleTask
   session duration: 50 min
 
-session 105
-Project : Scrimba
-30.09.2026
-what did i do today?
-
-- Scrimba finished all HTML and CSS Lectures
-  what do i do next?
-- first HTML CSS Project
-  session duration: 2h
-
-session 104
-Project : Task-Manager
+session 91
+Project : Task-Manager / Scrimba
 30.09.2026
 what did i do today?
 
 - worked on task-manager
 - restarted task manager because i relied to much on claude and i was extremly confused
 - wrote a plan and started working on task manager
+- Scrimba finished all HTML and CSS Lectures
   what do i do next?
 - figure out how to render the tasklist with my new file structure
+- first HTML CSS Project
+  session duration: 3h 57 mins
 
-- session duration: 1h 57 mins
-
-session 103
-Project : Scrimba
-29.09.2026
-what did i do today?
-
-- started scrimba course finished html section
-- started css section
-- deployed a page on netlify
-- added a scrimba folder where i will put my main scrimba projects only the big ones
-
-- what do i do next?
-- finish css
-- session duration: 1 hour 57 minutes
-
-session 102
-Project : Task-Manager
+session 90
+Project : Task-Manager / Scrimba
 29.09.2026
 what did i do today?
 
 - restarted Task Manager to see how far i get without ai
 - could do more than yesterday did everything including components up to cond render and checkbox
+- started scrimba course finished html section
+- started css section
+- deployed a page on netlify
+- added a scrimba folder where i will put my main scrimba projects only the big ones
   what do i do next?
 - finish the checkbox
 - edit logic(the biggest hurde for me)
-  session duration: 2hours
+- finish css
+  session duration: 3h 57 mins
 
-session 101
+session 89
 Project : Sandbox
 28.09.2026
 what did i do today?
@@ -104,29 +86,21 @@ what did i do today?
 - look at task manager and think about what to port to components if any
   session duration: 40 mins
 
-session 100
-Project : task-manager
-27.09.2026
-what did i do today?
-
-- worked on task manager
-- submit with enter
-- checkbox logic
-  what do i do next?
-- create a new react app call it sandbox no repo needed and rebuild task manager with components
-  session duration: 1 hour
-
-session 99
+session 88
 Project : task-manager
 27.09.2026
 what did i do today?
 
 - wrote add logic and delete logic for task-manager
+- worked on task manager
+- submit with enter
+- checkbox logic
   what do i do next?
 - work on edit logic
-  session duration: 40 mins
+- create a new react app call it sandbox no repo needed and rebuild task manager with components
+  session duration: 1h 40 mins
 
-session 98
+session 87
 Project : learn react
 26.09.2026
 what did i do today?
@@ -136,7 +110,7 @@ what did i do today?
 - learn react
   session duration: 40 mins
 
-session 97
+session 86
 Project : Astrameath
 25.09.2026
 what did i do today?
@@ -149,27 +123,19 @@ what did i do today?
 - execute step 1
   session duration: 1 hour
 
-session 96
-Project : react-learning
+session 85
+Project : pull tracker / react-learning
 24.09.2026
 what did i do today?
 
+- started pull tracker
 - started new react learning programm
   what do i do next?
-- no idea
-  session duration: 1 hour
-
-session 95
-Project : pull tracker
-24.9.2026
-what did i do today?
-
-- started pull tracker
-  what do i do next?
 - work on astrameath
-  session duration: 1 hour
+- no idea
+  session duration: 2 hours
 
-session 94
+session 84
 Project : none
 23.09.2026
 what did i do today?
@@ -179,7 +145,7 @@ what did i do today?
 - no idea
   session duration: 30 mins
 
-session 93
+session 83
 Project : Teambuilder/ Scrimba
 21.09.2026
 what did i do today?
@@ -190,27 +156,19 @@ what did i do today?
 - scrimba
   session duration: 30 mins
 
-session 92
-Project : teammbuilder
-20.09.2026
-what did i do today?
-
-- edit
-  what do i do next?
-- local storage
-  session duration: 50 mins
-
-session 91
+session 82
 Project : teambuilder
 20.09.2026
 what did i do today?
 
 - started teambuilder
+- edit
   what do i do next?
 - edit in teambuilder
-  session duration: 50 mins
+- local storage
+  session duration: 1h 40 mins
 
-session 90
+session 81
 Project : To do List
 18.09.2026
 what did i do today?
@@ -220,7 +178,7 @@ what did i do today?
 - new Project
   session duration: 50 mins
 
-session 89
+session 80
 Project : to do list
 17.09.2026
 what did i do today?
@@ -230,7 +188,7 @@ what did i do today?
 - make the edit logic work
   session duration: 1 hour 30 mins
 
-session 88
+session 79
 Project : Task Manager
 16.09.2026
 what did i do today?
@@ -240,7 +198,7 @@ what did i do today?
 - simple to do list
   session duration: 40 mins
 
-session 87
+session 78
 Project : Task Manager
 15.09.2026
 what did i do today?
@@ -251,7 +209,7 @@ what did i do today?
 - click inside Project card
   session duration: 1h 10 min
 
-session 86
+session 77
 Project : Task-Manager
 14.9.2026
 what did i do today?
@@ -262,7 +220,7 @@ what did i do today?
   wanted to do longer sessions but cant endure it
   session duration: 1h 20 minutes
 
-session 85
+session 76
 Project : Expense-Tracker, Task-Manager
 13.9.2026
 what did i do today?
@@ -273,7 +231,7 @@ what did i do today?
 - add basic CSS to Task-Manager
   session duration: 1h 42mins
 
-session 84
+session 75
 Project : Expense Tracker
 12.9.2026
 what did i do today?
@@ -284,7 +242,7 @@ what did i do today?
 - finish edit logic
   session duration: 1h 6mins
 
-session 83
+session 74
 Project : expense tracker
 10.9.2026
 what did i do today?
@@ -294,18 +252,7 @@ what did i do today?
 - delete logic
   session duration: 50 mins
 
-session 82
-Project Expense Tracker
-06.09.2026
-what did i do today?
-
-- made it so the submit button renderns logs in the dome
-- added minor error handling
-  what do i do next?
-- write balance logic
-  session duration: 1h 30 mins
-
-session 81
+session 73
 Project: Expense Tracker
 06.09.2026
 what did i do today?
@@ -314,11 +261,14 @@ what did i do today?
 - Set Root vars
 - basic styling
 - grid layout
+- made it so the submit button renderns logs in the dome
+- added minor error handling
   what do i do next?
 - when user clicks on submit something gets rendered
-  session duration: 1h 7 mins
+- write balance logic
+  session duration: 2h 37 mins
 
-session 80
+session 72
 Project Expense Tracker
 05.09.2026
 what did i do today?
@@ -328,7 +278,7 @@ what did i do today?
 - start with the Setup
   session duration: 36 mins
 
-session 79
+session 71
 19.7.2026
 what did i do today?
 
@@ -345,7 +295,7 @@ what do i do next?
 
 session duration 1h 21 mins
 
-session 78
+session 70
 04.07.2026
 what did i do today?
 came back after a week break. finished wiring the gameform component, the add button now works through the callback prop. the step that made me shut down twice is done
@@ -353,14 +303,14 @@ what do i do next?
 delete the old inline add form from App.tsx (lines 44-67, from the add game label to the p with {title}), then remove the leftover title state
 session duration 10 mins
 
-session 77
+session 69
 26.06.2026
 what did i do today?
 continue gms
 what do i do next continue gms
 session duration 20mins
 
-session 76
+session 68
 25.06.2026
 what did i do today
 worked on gms added input and add game button
@@ -368,7 +318,7 @@ what do i do next?
 make form for add games
 session duration 30 mins
 
-Session 75
+Session 67
 24.06.2026
 what did i do today?
 contiued on gms
@@ -376,7 +326,7 @@ what do i do next?
 keep working on gms
 session duration 45 min
 
-session 74
+session 66
 23.06.2026
 what did i do today?
 started gms from scratch
@@ -384,7 +334,7 @@ what do i do next?
 continue on gms
 session duration 45 min
 
-Session 73:
+Session 65:
 21.06.2026
 what did i do today?
 i started making a game management system with ai help
@@ -392,7 +342,7 @@ what do i do next ?
 continue with gms form component
 session duration: 2h 30 mins
 
-Session 72
+Session 64
 20.06.2026
 what did i do today?
 started on a to do list but ai learning failed
@@ -400,7 +350,7 @@ what do i do next?
 i dont know yet
 session duration 40 min
 
-Session 71
+Session 63
 19.06.2026
 what did i do today?
 finished beauty saloon or better said ai fixed it i dont feel like coding today
@@ -408,7 +358,7 @@ what do i do next?
 rest
 session duration 20 mins
 
-Session 70
+Session 62
 18.6.2026
 what did i do today?
 worked on beauty saloon
@@ -416,7 +366,7 @@ what do i do next ?
 continue working on beauty saloon
 session duration 40 min
 
-Session 69
+Session 61
 17.06.2026
 what did i do today?
 started creating a website for a friend
@@ -425,7 +375,7 @@ what do i do next?
 continue beauty saloon
 session duration 1 hour
 
-Session 68
+Session 60
 16.06.2026
 what did i do today?
 did phase 3 up up to 3.3 i made an array hardcoded and used varibles to draw stats with reduce and filter
@@ -435,7 +385,7 @@ what do i do next?
 finish phase 3 and do a project with those thmeses
 session duration 40 mins
 
-session 67
+session 59
 15.06.2026
 what did i do today?
 i finished phase 2 and ended up with a quest log ugly but functional
@@ -443,7 +393,7 @@ what do i do next?
 start phase 3
 duration : 1hour
 
-Session 66
+Session 58
 14.06.2026
 what did i do today?
 roadmap up to phase 2.5 failed on 2.5 multiple times
@@ -451,7 +401,7 @@ what do i do next?
 i dont know
 session duration 3 hours 14 minutes
 
-Session 65
+Session 57
 13.06.2026
 what did i do today?
 i started building a small React to do list with ai i did close to no code just retyped what ai gave me
@@ -460,7 +410,7 @@ what do i do next?
 finish phase 0
 session duration 2 hours
 
-Session 65
+Session 56
 12.06.2026
 what did i do today?
 finished phase 1 of my react roadmap created my first project a gallery
@@ -468,21 +418,21 @@ what do i do next?
 start phase 2
 duration : 1 hour
 
-Session 64
+Session 55
 what did i do today?
 created counter and greeting and had a lot of frustration
 what do i do next?
 start my new react learning path
 session duration 1h 20mins
 
-Session 63
+Session 54
 What did I do today?
 I got started on react
 What do I do next?
 Build to do list
 Session duration 20 min
 
-Session 62
+Session 53
 7.6.2026
 what did i do today?
 i build a to do list i let ai walk me trough it
@@ -493,7 +443,7 @@ i need to find a way to reach the li element so i can apply style to it
 i need to find a way to reach the delete button and use array.filter to delete an item
 session duration 2h 28 mins
 
-Session 61
+Session 52
 6.6.2026
 what did i do today?
 i did the reaction timer display but failed and let claude finish it
@@ -504,7 +454,7 @@ what do i do next?
 finish to do list
 session duration 2hour 30 mins
 
-session 60
+session 51
 5.6.2026
 what did i do today?
 started new plan 4 project for each thing i feel weak like event handling
@@ -513,7 +463,7 @@ what do i do next?
 event handling project 2
 session duration 30mins
 
-session 59
+session 50
 4.6.2026
 what did i do today?
 i did a skill assasment ai annoyed me so i stopped and deleted everything
@@ -521,7 +471,7 @@ what do i do next?
 figure out how i move forward with coding
 session duration 1h 30 minuten
 
-Session 58
+Session 49
 3.06.2026
 what did i do today?
 minimal coding finished spellbook i let ai write the code for me
@@ -530,24 +480,18 @@ what do i do next?
 start project 1
 session duration 30 mins
 
-Session 57
-2.06.2026
-what did i do today?
-finished dragon hoard failed on next project miserably
-what do i do next?
-i dont know
-duration 1 hour 40 mins
-
-session 56
+session 48
 02.06.2026
 what did i do today?
 i worked on the dragon hoard project
 i did the basic game loop the gold logic the lost logic
+finished dragon hoard failed on next project miserably
 what do i do next?
 fix the best run score and add a reset button
-duration : 1hour 10 mins
+i dont know
+duration : 2 hours 50 mins
 
-session 55
+session 47
 30.05.2026
 what did i do today?
 i continued with the quest log i realized its too much for my current level and paused it
@@ -558,7 +502,7 @@ what do i do next?
 i will write the next steps in plain english for the dragon hoard project
 session duration : 2 hours 32mins
 
-Session 54
+Session 46
 29.05.2026
 what did i do today?
 started quest log project
@@ -568,7 +512,7 @@ what do i do next?
 fix local storage and style the card
 session duration : 1hour
 
-Session 53
+Session 45
 27.05.2026
 what did i do today ?
 finished rock paper scissors project
@@ -576,7 +520,7 @@ what do i do next?
 rpg quest log project
 session duration 1h
 
-Session 52
+Session 44
 26.05.2026
 what did i do today?
 started rock paper scissors with pseudocode i set up basic html and js structure
@@ -587,7 +531,7 @@ what do i do next?
 write win conditions
 session duration: 1h 30mins
 
-session 51
+session 43
 25.05.2026
 What did i do today?
 i finished the dice battle project
@@ -595,7 +539,7 @@ what do i do next?
 rock paper sciccors project
 session duration 1 hour 40 mins
 
-Session 50
+Session 42
 24.05.2026
 what did i do today?
 added new game button and lose condition
@@ -603,7 +547,7 @@ what do i do next?
 keep player score
 session duration 30min
 
-Session 49
+Session 41
 23.05.2026
 what did i do today?
 started a new learning path i created a guessing game
@@ -611,7 +555,7 @@ what do i do next ?
 make bonus on guessing game create a new game button
 session duration 2hours 30 mins
 
-session 48
+session 40
 22.05.2026
 what did i do today?
 set up an new folder i will try to create a simple to do list app
@@ -619,7 +563,7 @@ what do i do next?
 work on my to do list app
 session duration 1hour
 
-session 47
+session 39
 21.05.2026
 what did i do today?
 i tried a new learning path with ai but less complicated but it didnt work i dont know why i always come back to ai i need to stop
@@ -627,14 +571,14 @@ what do i do next?
 i dont know what to do anymore
 session duration 30 mins
 
-Session 46
+Session 38
 what did i do today?
 i started a new learning path a new folder i did some basics like variables tenray operators destructuring and array methods
 what do i do next?
 first project of my new path
 session duration 50mins
 
-Session 45
+Session 37
 19.5.2026
 what did i do ?
 made github repo
@@ -644,24 +588,19 @@ what do i do next?
 not sure how to move forward feel lost
 session duration 30 mins
 
-session 44
-18.5.2026
-what did i do today?
-i informed myself about local storage and my way forward i will write 3 websites without the help of ai one habit tracker one workout tracker and a game i started working on my habit tracker i did the setup
-what do i do next ?
-make github repo for habit tracker
-figure out how to paste user input into a dropdown
-finish form logic and test it out
-session duration: 1 hour
-
-Session 43
+Session 36
 18.5.2026
 what did i do today?
 nothing but failure
-what do i do next? fuck ai and write a new app on my own
-session duration 50min
+i informed myself about local storage and my way forward i will write 3 websites without the help of ai one habit tracker one workout tracker and a game i started working on my habit tracker i did the setup
+what do i do next?
+fuck ai and write a new app on my own
+make github repo for habit tracker
+figure out how to paste user input into a dropdown
+finish form logic and test it out
+session duration: 1h 50 mins
 
-Session 42
+Session 35
 17.5.2026
 what did i do today?
 wrote code to render a card with max time spend failed a lot i dont understand anything i am not frustated anymore just tired i accept that i suck
@@ -669,7 +608,7 @@ what do i do next?
 finish toogle button and write rest of timed stats into the card.
 session duration 1 hour
 
-Session 41:
+Session 34:
 16.5.2026
 What did i do today?
 at the start a lot of theory from last session i tried to comment and understand my code then i started working on a new function i dont understand why i made really great progress last time but got stuck on the next function when my goal was to finish phase 1 dosent make sense to me.
@@ -677,7 +616,7 @@ what do i do next?
 keep working on renderCategoryCards function
 session duration: 1 hour 10 minutes
 
-session 40:
+session 33:
 14.5.2026
 what i did today?
 i started working on my time tracker app wrote the timer with local storage with time formatting with helper functions with reset local storage i rendered the array from local storage into the html i used foreach
@@ -685,7 +624,7 @@ what do i do tommorow :
 review my code review the stop function and explain it to claude describe what each line does comment for things that arent obvious
 session duration 3 hours
 
-Session 39 :
+Session 32 :
 12.5.2026
 what did i do today?
 tried to work on math arena failed cant do the most simple things i rewrite pseudocode multiple times it fails i google i get more confused i ask ai dont understand the explainations without code until ai gives me code which defeats the purpose of learining
@@ -693,7 +632,7 @@ what should i do next?
 i dont know give up? accept that i am not fit to be a programmer ? try game dev instead?d
 session duration 30 min
 
-Session 38
+Session 31
 10.5.2026
 what did i do today?
 i started the math arena game i did the setup html structure css styling and a js file where i only got the dom elements i also wrote some pseudo code and set up a git repo
@@ -701,7 +640,7 @@ what do i do next?
 continue project start with game start function
 session duration 30min
 
-Session 37
+Session 30
 9.5.2026
 what did i do today ?
 i tried to build the stopwatch mini project alone again but i failed i did rely on ai again i feel terrible about my coding skills right now what i can do is build a stopwatch with stop start reset when i only count seconds up but for edge cases formatting extended logic with elapased time date.now etc i completly blank out.
@@ -709,7 +648,7 @@ What do i do next?
 i tackle a new project a math game where a math problem plops up and the user has 60 seconds to solve it this one is even bigger than the stopwatch.
 session duration: 1:30 h
 
-Session 36
+Session 29
 6.5.2026
 what did i do today ?
 i did the stopwatch exercise i didnt want to use ai since it told me not the entire code but a big part of it on accident so i decided to try it without ai at first i used mdn web docs w3schools but i couldnt figure it out then i finished the app using an youtube tutorial the issue is if i would do the same exercise next week i would need a tutorial again
@@ -718,7 +657,7 @@ try and write the stopwatch again alone
 session duration : 1 hour
 a big part of my fails come from lack of sleep i need to adress this its hard to work a full time job and learn to code at the same time i feel stuck not just in code but in life the dayjob has also a lot of information i need to process but i also cannot stagnate my coding since its eqally important if not more i have to think about what i should do but the main issue remains my learning is inneficent it was so even before my dayjob
 
-Session 35
+Session 28
 5.5.2026
 what did i do today?
 i did the mini project counter
@@ -727,7 +666,7 @@ i will do the mini project stopwatch
 session duration: 30 min
 very tired could barely focus i have a full time job and i need to get used to it yesterday was the first day in it.
 
-session 34
+session 27
 3.5.2026
 what did i do today?
 finished e19 (setTimeout) — both tasks correct on first try
@@ -737,7 +676,7 @@ setInterval still feels complicated, not fully clicked yet — will get more rep
 what do i do next?
 mini-project-counter (+/− buttons + reset, ~30 min) — DOM only, no timers, builds confidence before stopwatch forces setInterval again.
 
-session 33
+session 26
 1.5.2026
 what did i do today?
 finished e17 task 3 (form submit + validation + clear inputs)
@@ -758,7 +697,7 @@ second half: restructured how i learn. new rules:
 what do i do next?
 e19 — setTimeout, 15 min
 
-session 32
+session 25
 30.4.26
 what did i do today?
 e17 task 1 and 2 are complete i used event listeners and event delegation
@@ -766,7 +705,7 @@ What do i do next?
 e17 task3
 duration : 40 min
 
-Session 31
+Session 24
 29.4.26
 what did i do ?
 e16 all exercises completed, e17 tasks 1 started i used query selector i used text content classlist add remove and toggle i changed styling in js i created an event listener for a click counter
@@ -775,7 +714,7 @@ continue with e17
 session duration 1 hour
 good session didnt feel overwhelming i am still making beginner mistakes like today i created an variable inside the event listenter it gets reset every time i need to do it outside aside from that the things i used today werent hard to understand but i need to get used to the syntax and its a good thing i finally see my js in action
 
-Session 30
+Session 23
 28.4.2026
 what did i do ?
 i finished my game project and thought about my learning process i need more practise building projects so i get better at it for now i decided to move on to dom manipulation i also learned today that i understand the technologies i use but i cant debug them this comes with more projects i will make sure to use a variotion of use cases because i dont know yet how to handle unexpected behavior like random object handling
@@ -783,7 +722,7 @@ what will i do next ?
 start learning and practising dom manipulation
 duration: 40m
 
-session 29
+session 22
 27.4.2026
 what did i do today?
 first time using readline for user input in Node.js
@@ -796,7 +735,7 @@ finish the game: add win/lose messages after the loop, then think about multiple
 session duration: 1 hour
 i have an issue keeping things in my head need to learn to write pseudo code
 
-session 28
+session 21
 26.4.2026
 what did i do today?
 i worked on the dungeon crawler game i wrote the enemies.js file it works enemies can be created with a random number
@@ -805,7 +744,7 @@ what do i do next ?
 i will write the first round in game.js first i need to export from player and enemy.js
 session duration 1 hour
 
-session 27
+session 20
 25.4.2026
 what did i do today?
 i started the dungeon crawler project i created a player class and testet it in isolation i encoured a few bugs and solved them with claude.
@@ -816,7 +755,7 @@ export and import functions and test a run in game.js
 Session Duration 1 hour 10 minutes
 the first code block i wrote there was a lot of things wrong with it i didnt notice it on myself only with claude code
 
-session 26
+session 19
 23.4.2026
 what did i do today?
 completed e15 – Classes (both tasks)
@@ -830,7 +769,7 @@ update: also covered hoisting and prototype chain conceptually in the same sessi
 both ticked off – JS Basics is now fully complete
 tomorrow: start project-game (will take multiple sessions)
 
-session 25
+session 18
 22.4.2026
 what did i do today?
 completed e13 task 2 (optional chaining on methods)
@@ -843,7 +782,7 @@ note: task 3 was hard - needed step-by-step guidance. reduce syntax forgotten. n
 what do i do next?
 e15 – Classes (short, 2 tasks)
 
-session 24
+session 17
 21.4.2026
 what did i do today?
 rough session - e12 task 3 had setTimeout which was too complex (3 layers of nesting, browser API not yet covered)
@@ -853,7 +792,7 @@ started e13 optional chaining - task 1 done
 what do i do next?
 continue e13 (tasks 2-4)
 
-session 21
+session 16
 18.4.2026
 what did i do ?
 i practised for in and for of loops
@@ -865,14 +804,14 @@ practised closures (e11) and started this keyword (e12, tasks 1-2)
 what do i do next?
 finish e12 (tasks 3-4), then hoisting
 
-session 20
+session 15
 17.4.2026
 what did i do
 more loop practise
 what do i do next?
 more loop practise
 
-session 19
+session 14
 16.4.2026
 what did i do today
 i practised loops still dont get it
@@ -880,76 +819,72 @@ what is next
 practise loops until i get it
 note cant focus for some reason
 
-session 18
+session 13
 14.4.2026
 what did i do today ?
 i practised for and while loops
 what do i do next ?
 practise more loops
 
-session 17
+session 12
 13.4.2026
 what did i do today?
 i finished exercises in js and decided i will move from writing docu doing practise work and docs only after
 what is up next?
 another 6 exercises
 
-session 16
+session 11
 12.4.2026
 what did i do today?
 i did some exercises on javascript so i have practise before i do all the theory
 what do i do next ?
 continue exercises js
 
-session 15
+session 10
 11.4.2026
 what did i do today?
 started js basics docu
 what is next?
 continue basic js doku
 
-session 14
+session 9
 10.4.2026
 what did i do today?
+i documented information about git github dev tools vs code extensions and shortcuts
 accesibility basics and made changes to project 1 to reach a 100% ally score
 what is next?
+accecibility basics
 js basics
 
-session 13
-10.4.2026y?
-i documented information about git github dev tools vs code extensions and shortcuts
-what is next?
-accecibility basics
-
-session 12
+session 8
 8.4.26
 what did i do today?
 i finished project 1 portfolio website
 what is next
 phase 2 js
 
-session 11
+session 7
 7.4.2026
 what did i do today?
 started the project fresh and made the structur have more sense
 what is next?
 style project section
 
-session 10
+session 6
 6.4.2026
 what did i do today?
 i completly messed up my css by trying to add the hamburger menu
 what do i do next?
 start the whole project from scratch
 
-Session 8-9
+Session 5
 5.4.2026
 what did i do today?
 basic css done started styling the main page.
 what is next?
 make a hamburger menu, animate project cards
 
-session 7
+session 4
 4.4.2026
 what did i do today?
 i created a wireframe for my webpage for mobile and desktop
@@ -957,21 +892,21 @@ i build html structure for main page and sub pages for my portfolio project
 what is planned next?
 basic css reset fonts vars colors
 
-Session 5-6
+Session 3
 2.4.2026
 what did i do today?
 i practised css grid i made 3 exercises on it and one portfolio page i used grid on the body i used flexbox for the sections and nested grid for responsive project cards with repeat and minmax.
 what is planned next?
 project 1 portfolio
 
-Session 4:
+Session 2:
 1.4.2026
 what did i do?
 i finished my css documention and practiced css animations
 what is planned next:
 css grid
 
-session 1-3
+session 1
 31.3.2026
 what did i do?
 read and wrote documentation on css and html
