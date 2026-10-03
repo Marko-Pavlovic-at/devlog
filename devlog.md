@@ -12,6 +12,17 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+Session 108
+
+Project Smoke-Tracker / Scrimba
+what did i do today?
+
+- scrimba first html css project done
+- smoke tracker login and setup done
+  What i do next
+- smoke tracker logging
+  Duration 2h 12 minutes
+
 session 107
 Project : task-manager
 02.10.2026
