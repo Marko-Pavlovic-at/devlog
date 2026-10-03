@@ -13,7 +13,7 @@ newest entries first — oldest at the bottom
 ===============================================================
 
 Session 108
-
+Date 03.10.2026
 Project Smoke-Tracker / Scrimba
 what did i do today?
 
