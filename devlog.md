@@ -4,11 +4,9 @@ Day N
 DD.MM.YYYY
 Projects :
 
-what did i do today?
--
+## what did i do today?
 
-what do i do next?
--
+## what do i do next?
 
 total time:
 
@@ -16,17 +14,36 @@ total time:
 newest entries first — oldest at the bottom
 ===============================================================
 
+Day 95
+04.10.2026
+Projects : Scrimba / Smoke Tracker
+
+what did i do today?
+
+- finished Scrimbas Space Eploration Site Lexture
+- let claude finish smoke Tracker
+
+what do i do next?
+
+- Scrimba Birthday Card
+
+S1 1h 6 mins
+S2 26 mins
+total time:
+
 Day 94
 03.10.2026
 Projects : Smoke-Tracker, Scrimba
 
 what did i do today?
 Smoke-Tracker
+
 - login and setup done
-Scrimba
+  Scrimba
 - first html css project done
 
 what do i do next?
+
 - smoke tracker logging
 
 total time: 2h 12 mins
