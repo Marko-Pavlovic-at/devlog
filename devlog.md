@@ -14,7 +14,7 @@ total time:
 newest entries first — oldest at the bottom
 ===============================================================
 
-Day N
+Day 96
 05.10.2026
 Projects : Scrimba
 
