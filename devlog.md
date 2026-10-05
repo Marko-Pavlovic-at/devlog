@@ -4,15 +4,31 @@ Day N
 DD.MM.YYYY
 Projects :
 
-## what did i do today?
+what did i do today?
 
-## what do i do next?
+what do i do next?
 
 total time:
 
 ===============================================================
 newest entries first — oldest at the bottom
 ===============================================================
+
+Day N
+05.10.2026
+Projects : Scrimba
+
+what did i do today?
+
+- started bday card project
+- finished bday card project
+  what do i do next?
+
+- make the bday card project my own pick aemeath as a birthday receiver
+
+s1 : 40 min
+s2 : 73 min
+total time: 113 mins
 
 Day 95
 04.10.2026
@@ -27,9 +43,9 @@ what do i do next?
 
 - Scrimba Birthday Card
 
-S1 1h 6 mins
+S1 66 mins
 S2 26 mins
-total time:
+total time: 92 mins
 
 Day 94
 03.10.2026
