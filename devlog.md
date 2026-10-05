@@ -22,13 +22,16 @@ what did i do today?
 
 - started bday card project
 - finished bday card project
+- made the bday card project my own and deployed it https://bday-card-aemeath.netlify.app/
+- set up the next project town-homepage in the scrimba folder
   what do i do next?
 
-- make the bday card project my own pick aemeath as a birthday receiver
+- start the hometown homepage
 
 s1 : 40 min
 s2 : 73 min
-total time: 113 mins
+s3 : 53 min
+total time: 166 mins
 
 Day 95
 04.10.2026
