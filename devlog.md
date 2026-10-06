@@ -14,6 +14,27 @@ total time:
 newest entries first — oldest at the bottom
 ===============================================================
 
+Day 97
+06.10.2026
+Projects : Scrimba hometown page
+
+what did i do today?
+
+- started the hometown page
+- did the html structure
+- styled it
+
+what do i do next?
+
+- add google font
+- add 2 more sections
+- add hover effects
+- deploy
+
+s1 : 78 minutes
+
+total time:
+
 Day 96
 05.10.2026
 Projects : Scrimba

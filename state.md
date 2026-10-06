@@ -1,19 +1,19 @@
 # State
 
-Last updated: 05.10.2026 (Day 96)
+Last updated: 06.10.2026 (Day 97)
 **Next skills reevaluation: 01.11.2026**
 
 ---
 
-## Stats (31.03.2026 – 05.10.2026)
+## Stats (31.03.2026 – 06.10.2026)
 
 | | |
 |---|---|
-| Days coded | 96 of 189 calendar days (51%) |
-| Time logged | ~96.3 hours (75 days with a time, most of April unlogged) |
+| Days coded | 97 of 190 calendar days (51%) |
+| Time logged | ~97.6 hours (76 days with a time, most of April unlogged) |
 | Average day | 1h 17m |
 | Longest days | 29.09 and 30.09 (3h 57m each), 14.06 (3h 14m) |
-| Longest streak | 13 days (23.09 – 05.10, still running) |
+| Longest streak | 14 days (23.09 – 06.10, still running) |
 | Longest break | 48 days (19.07 – 05.09) |
 
 | Month | Days | Time logged |
@@ -24,7 +24,7 @@ Last updated: 05.10.2026 (Day 96)
 | July | 2 | ~1.5h |
 | August | 0 | – |
 | September | 20 | ~28.9h (best month) |
-| October | 5 | ~8.2h (so far) |
+| October | 6 | ~9.5h (so far) |
 
 ---
 
@@ -34,11 +34,11 @@ Last updated: 05.10.2026 (Day 96)
 2. **May:** DOM exercises, counter + stopwatch mini projects, small games finished (guessing game, dice battle, rock paper scissors). Started a full-time job on 04.05
 3. **June:** dragon hoard finished, started React, roadmap phases 1–3 (gallery, quest log), website for a friend (beauty saloon), game management system (gms)
 4. **July:** gms, finance tracker, then a 7-week break
-5. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage project set up
+5. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10): HTML structure + styling of hero, activities and tour guide sections done
 
 ### Current projects
 - **Smoke Tracker** (React + Supabase): finished and live on Netlify, now in daily use
-- **Scrimba** course: HTML/CSS done, first project + Space Exploration site + Birthday Card (own Aemeath version, deployed) done, next: start the Town Homepage
+- **Scrimba** course: HTML/CSS done, first project + Space Exploration site + Birthday Card (own Aemeath version, deployed) done, Town Homepage in progress (structure + styling done), next: Google Font, 2 more sections, hover effects, deploy
 
 ---
 
