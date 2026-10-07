@@ -1,7 +1,7 @@
 # State
 
 Last updated: 06.10.2026 (Day 97)
-**Next skills reevaluation: 01.11.2026**
+**Next weekly review: 13.10.2026**
 
 ---
 
@@ -9,21 +9,21 @@ Last updated: 06.10.2026 (Day 97)
 
 | | |
 |---|---|
-| Days coded | 97 of 190 calendar days (51%) |
-| Time logged | ~97.6 hours (76 days with a time, most of April unlogged) |
-| Average day | 1h 17m |
+| Days coded | 126 of 190 calendar days (66%), incl. 14 days added from Astrameath and 15 days estimated from GitHub commits on 06.10 |
+| Time logged | ~123.9 hours (105 days with a time, 15 of them estimated, most of April unlogged) |
+| Average day | 1h 11m |
 | Longest days | 29.09 and 30.09 (3h 57m each), 14.06 (3h 14m) |
-| Longest streak | 14 days (23.09 – 06.10, still running) |
-| Longest break | 48 days (19.07 – 05.09) |
+| Longest streak | 17 days (20.09 – 06.10, still running) |
+| Longest break | 10 days (04.07 – 14.07) |
 
 | Month | Days | Time logged |
 |---|---|---|
 | April | 24 | ~5.5h (mostly unlogged) |
 | May | 21 | ~23.7h |
-| June | 20 | ~25.7h |
-| July | 2 | ~1.5h |
-| August | 0 | – |
-| September | 20 | ~28.9h (best month) |
+| June | 21 | ~26.7h (1 day estimated from GitHub) |
+| July | 9 | ~3.3h (7 days estimated from GitHub, low phase ~15 min/day) |
+| August | 17 | ~19.9h (10 days from Astrameath, 7 estimated from GitHub) |
+| September | 24 | ~32.6h (best month) |
 | October | 6 | ~9.5h (so far) |
 
 ---
@@ -33,8 +33,9 @@ Last updated: 06.10.2026 (Day 97)
 1. **April:** HTML/CSS docs, CSS grid, portfolio project finished, JS basics exercises (loops, closures, `this`, modules, classes), Node.js dungeon crawler game finished
 2. **May:** DOM exercises, counter + stopwatch mini projects, small games finished (guessing game, dice battle, rock paper scissors). Started a full-time job on 04.05
 3. **June:** dragon hoard finished, started React, roadmap phases 1–3 (gallery, quest log), website for a friend (beauty saloon), game management system (gms)
-4. **July:** gms, finance tracker, then a 7-week break
-5. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10): HTML structure + styling of hero, activities and tour guide sections done
+4. **July:** gms, finance tracker, then a low phase with only ~10–20 min a day (learning, finace-tracker, QuestLog…, from GitHub commits; almost gave up on coding)
+5. **August – early September:** learning, addiction-tracker, setup, static page, teambuilder, pull tracker, workout-tracker, game-backlog (from Astrameath and GitHub, no devlog notes)
+6. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10): HTML structure + styling of hero, activities and tour guide sections done
 
 ### Current projects
 - **Smoke Tracker** (React + Supabase): finished and live on Netlify, now in daily use
@@ -42,7 +43,19 @@ Last updated: 06.10.2026 (Day 97)
 
 ---
 
-## Current Skills (03.10.2026)
+## Last weekly review
+
+06.10.2026 — Days 91–97 (30.09 – 06.10)
+
+- **Coded:** 7 of 7 days, ~13h 25m (avg 1h 55m)
+- **Plan vs Done:** no predictions yet (new template starts after Day 97)
+- **Stuck:** task-manager `handleTask` / edit logic (Days 91–93) → Day 93 "nothing useful" → thrown away. After that only HTML/CSS (Scrimba) and Claude finishing Smoke Tracker; no JS written by Marko since 02.10
+- **Code:** following the Scrimba course order (responsive not covered yet, so not expected); used some semantic HTML (`main`, `section`) before the course mentioned it. Town Homepage colours are hard-coded instead of `:root` variables
+- **Skills:** no changes
+
+---
+
+## Current Skills (06.10.2026)
 
 ### Solid
 - HTML structure, semantic pages
@@ -75,6 +88,6 @@ Last updated: 06.10.2026 (Day 97)
 
 - **Consistency is the best it has been:** September best month, current streak is the longest ever
 - **Finishing more:** May/June mostly failing or restarting; September has several finished projects in a row
-- **Comes back after breaks:** returned after the 48-day break and the low points in May
+- **Comes back after breaks:** kept going through the July low phase (10–20 min days) instead of quitting and the low points in May
 - **Changes plans a lot:** ~10 new learning paths / roadmaps, ~8 restarts or deletions (task manager attempted 13.09 – 02.10, then thrown away)
 - **AI reliance swings:** goes from "rely more on AI" to "no AI" and back; each swing usually ends in a restart. Smoke Tracker was the planned exception: its rules allowed Claude to write chunks, and on 04.10 Claude finished it

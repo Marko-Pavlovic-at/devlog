@@ -1,14 +1,19 @@
 TEMPLATE — copy this block for a new entry, paste it right below this line
 
 Day N
-DD.MM.YYYY
-Projects :
+Date
 
-what did i do today?
+Plan: what I intend to do, and one prediction(time i think it takes)
 
-what do i do next?
+Done: what actually happened, time spent
 
-total time:
+Surprise: one thing that went differently than expected
+
+Stuck: where exactly I stopped, and what I didn't know
+
+Observed: one detail
+
+Next: the first concrete step tomorrow
 
 ===============================================================
 newest entries first — oldest at the bottom
@@ -210,6 +215,15 @@ what did i do today?
 - no idea
   session duration: 30 mins
 
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : react
+22.09.2026
+what did i do today?
+
+- time tracked in Astrameath: react 11m
+
+session duration: 11 mins
+
 Day 83
 Project : Teambuilder/ Scrimba
 21.09.2026
@@ -343,6 +357,258 @@ what did i do today?
 - start with the Setup
   session duration: 36 mins
 
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : game-backlog
+03.09.2026
+what did i do today?
+
+- time tracked in Astrameath: game-backlog 10m
+
+session duration: 10 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : game-backlog
+02.09.2026
+what did i do today?
+
+- time tracked in Astrameath: game-backlog 64m
+
+session duration: 1h 4 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : game-backlog
+01.09.2026
+what did i do today?
+
+- time tracked in Astrameath: game-backlog 57m, 76m, 1m
+
+session duration: 2h 14 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : game-backlog
+31.08.2026
+what did i do today?
+
+- time tracked in Astrameath: game-backlog 89m
+
+session duration: 1h 29 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : game-backlog
+29.08.2026
+what did i do today?
+
+- time tracked in Astrameath: game-backlog 95m
+
+session duration: 1h 35 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : game-backlog
+28.08.2026
+what did i do today?
+
+- time tracked in Astrameath: game-backlog 53m
+
+session duration: 53 mins
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : workout-tracker
+26.08.2026
+what did i do today?
+
+- 09:56 workout-tracker: restarted
+- 10:27 workout-tracker: added basic form and styled it
+- 17:47 workout-tracker: restart again
+
+session duration: ~89 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : workout-tracker
+25.08.2026
+what did i do today?
+
+- 16:52 workout-tracker: timer logic works in console and dom
+- 16:54 workout-tracker: styled stopBtn
+
+session duration: ~89 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : workout-tracker
+24.08.2026
+what did i do today?
+
+- 06:53 workout-tracker: started working on stop logic
+
+session duration: ~89 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : workout-tracker
+23.08.2026
+what did i do today?
+
+- 05:09 workout-tracker: setup
+
+session duration: ~89 mins (estimate)
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : pull tracker / learn claude
+22.08.2026
+what did i do today?
+
+- time tracked in Astrameath: pull tracker 25m, learn claude 18m
+
+session duration: 43 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : pull tracker
+15.08.2026
+what did i do today?
+
+- time tracked in Astrameath: pull tracker 34m, 23m, 75m
+
+session duration: 2h 11 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : pull tracker
+13.08.2026
+what did i do today?
+
+- time tracked in Astrameath: pull tracker 42m
+
+session duration: 42 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : pull tracker
+10.08.2026
+what did i do today?
+
+- time tracked in Astrameath: pull tracker 47m, 44m
+
+session duration: 1h 31 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : teambuilder
+08.08.2026
+what did i do today?
+
+- time tracked in Astrameath: teambuilder 5m, 11m, 38m, 34m
+
+session duration: 1h 28 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : teambuilder
+07.08.2026
+what did i do today?
+
+- time tracked in Astrameath: teambuilder 42m
+
+session duration: 42 mins
+
+Day – (added from Astrameath on 06.10.2026, no notes written that day)
+Project : Set up Enviroment / static page
+06.08.2026
+what did i do today?
+
+- time tracked in Astrameath: Set up Enviroment 23m, static page 65m, 31m
+
+session duration: 1h 59 mins
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : addiction-tracker
+04.08.2026
+what did i do today?
+
+- 04:53 addiction-tracker: setup
+- 04:56 addiction-tracker: stage 1 all files connected and tested
+- 05:41 addiction-tracker: hardcoded duration conversion
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : learning, resonator-page
+02.08.2026
+what did i do today?
+
+- 04:40 resonator-page: created index.html, style.css and downloaded potrait
+- 04:44 resonator-page: made html structure next css
+- 05:00 resonator-page: styled css finished?
+- 05:06 resonator-page: fixed some thing claude suggested
+- 05:09 resonator-page: addeed section page done
+- 05:23 learning: curriculum: drop NEXT.md/DECISIONS.md as separate files, devlog covers it
+- 05:25 learning: started phase 1
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : learning
+01.08.2026
+what did i do today?
+
+- 09:01 learning: Add research: Odin Project analysis, solo-builder gaps, theme reference
+- 09:26 learning: Add curriculum: roadmap, Phase 0 setup, Phase 1 JavaScript
+- 09:35 learning: Fix lesson 0.1: CachyOS ships fnm, don't install nvm
+- 09:42 learning: Add devlog README with suggested entry shape
+- 10:23 learning: created devlog worked trough phase 0
+- 10:25 learning: Soften NEXT.md guidance: the devlog already serves that purpose
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : QuestLog
+28.07.2026
+what did i do today?
+
+- 11:18 QuestLog: turned array of stings into array of objects
+- 11:28 QuestLog: wrote data id wrote event listener
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : QuestLog
+27.07.2026
+what did i do today?
+
+- 11:50 QuestLog: input add logic done
+- 12:16 QuestLog: sumbit button pushes into array
+- 12:35 QuestLog: added done and delete button not functional yet
+- 12:58 QuestLog: added dataset id
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : QuestLog
+26.07.2026
+what did i do today?
+
+- 17:46 QuestLog: setup done
+- 17:56 QuestLog: html skeleton in place
+- 18:05 QuestLog: basic css styling
+- 18:28 QuestLog: skeleton done
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : myfirstproject
+25.07.2026
+what did i do today?
+
+- 21:14 myfirstproject: first commit
+- 21:30 myfirstproject: build page with real content
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : lerning
+22.07.2026
+what did i do today?
+
+- 19:21 lerning: first commit
+- 19:47 lerning: created readme
+- 19:47 lerning: created readme
+- 20:24 lerning: basic setup for reaction timer
+
+session duration: ~15 mins (estimate)
+
 Day 71
 19.7.2026
 what did i do today?
@@ -359,6 +625,26 @@ what do i do next?
 - display array to the screen
 
 session duration 1h 21 mins
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : finace-tracker
+17.07.2026
+what did i do today?
+
+- 15:16 finace-tracker: Scaffold: Vite + React + TypeScript, boilerplate stripped
+- 15:26 finace-tracker: Add Tailwind v4
+
+session duration: ~15 mins (estimate)
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : learning-v2
+14.07.2026
+what did i do today?
+
+- 21:06 learning-v2: Start over: learning repo, hands on keys
+- 21:08 learning-v2: Bring back the learning-mode hook, without the escape hatch
+
+session duration: ~15 mins (estimate)
 
 Day 70
 04.07.2026
@@ -482,6 +768,16 @@ finished phase 1 of my react roadmap created my first project a gallery
 what do i do next?
 start phase 2
 duration : 1 hour
+
+Day – (estimated from GitHub commits on 06.10.2026, time not tracked)
+Project : playground
+10.06.2026
+what did i do today?
+
+- 06:18 playground: created counter
+- 06:33 playground: created tab logic
+
+session duration: ~60 mins (estimate)
 
 Day 55
 what did i do today?
