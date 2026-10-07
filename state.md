@@ -1,19 +1,19 @@
 # State
 
-Last updated: 06.10.2026 (Day 97)
+Last updated: 07.10.2026 (Day 98)
 **Next weekly review: 13.10.2026**
 
 ---
 
-## Stats (31.03.2026 – 06.10.2026)
+## Stats (31.03.2026 – 07.10.2026)
 
 | | |
 |---|---|
-| Days coded | 126 of 190 calendar days (66%), incl. 14 days added from Astrameath and 15 days estimated from GitHub commits on 06.10 |
-| Time logged | ~123.9 hours (105 days with a time, 15 of them estimated, most of April unlogged) |
+| Days coded | 127 of 191 calendar days (66%), incl. 14 days added from Astrameath and 15 days estimated from GitHub commits on 06.10 |
+| Time logged | ~124.7 hours (106 days with a time, 15 of them estimated, most of April unlogged) |
 | Average day | 1h 11m |
 | Longest days | 29.09 and 30.09 (3h 57m each), 14.06 (3h 14m) |
-| Longest streak | 17 days (20.09 – 06.10, still running) |
+| Longest streak | 18 days (20.09 – 07.10, still running) |
 | Longest break | 10 days (04.07 – 14.07) |
 
 | Month | Days | Time logged |
@@ -24,7 +24,7 @@ Last updated: 06.10.2026 (Day 97)
 | July | 9 | ~3.3h (7 days estimated from GitHub, low phase ~15 min/day) |
 | August | 17 | ~19.9h (10 days from Astrameath, 7 estimated from GitHub) |
 | September | 24 | ~32.6h (best month) |
-| October | 6 | ~9.5h (so far) |
+| October | 7 | ~10.3h (so far) |
 
 ---
 
@@ -35,11 +35,11 @@ Last updated: 06.10.2026 (Day 97)
 3. **June:** dragon hoard finished, started React, roadmap phases 1–3 (gallery, quest log), website for a friend (beauty saloon), game management system (gms)
 4. **July:** gms, finance tracker, then a low phase with only ~10–20 min a day (learning, finace-tracker, QuestLog…, from GitHub commits; almost gave up on coding)
 5. **August – early September:** learning, addiction-tracker, setup, static page, teambuilder, pull tracker, workout-tracker, game-backlog (from Astrameath and GitHub, no devlog notes)
-6. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10): HTML structure + styling of hero, activities and tour guide sections done
+6. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10) and finished (07.10), Scrimba JavaScript lectures started (07.10)
 
 ### Current projects
 - **Smoke Tracker** (React + Supabase): finished and live on Netlify, now in daily use
-- **Scrimba** course: HTML/CSS done, first project + Space Exploration site + Birthday Card (own Aemeath version, deployed) done, Town Homepage in progress (structure + styling done), next: Google Font, 2 more sections, hover effects, deploy
+- **Scrimba** course: HTML/CSS done, first project + Space Exploration site + Birthday Card (own Aemeath version, deployed) + Town Homepage done, JavaScript lectures started, next: continue the JS lectures
 
 ---
 

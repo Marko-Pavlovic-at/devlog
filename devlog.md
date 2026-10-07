@@ -2,22 +2,31 @@ TEMPLATE — copy this block for a new entry, paste it right below this line
 
 Day N
 Date
-
-Plan: what I intend to do, and one prediction(time i think it takes)
-
-Done: what actually happened, time spent
-
-Surprise: one thing that went differently than expected
-
-Stuck: where exactly I stopped, and what I didn't know
-
-Observed: one detail
-
-Next: the first concrete step tomorrow
+Project
+What i did:
+what i do next:
+observations:
+time:
 
 ===============================================================
 newest entries first — oldest at the bottom
 ===============================================================
+
+Day 98
+Date 07.10.2026
+Project Hometown-homepage / Scrimba Javascript
+What i did:
+
+- finished the hometown homepage
+- started scrimbas js lecture
+  what i do next:
+- continue with scrimbas js lecture
+  observations:
+- i wanted to finish the project quickly
+- i did not include alt texts
+- i was lazy with the hover effects and the addional Sections
+- my css is probably lackluster
+  time: 45 mins
 
 Day 97
 06.10.2026
