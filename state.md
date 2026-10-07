@@ -35,7 +35,7 @@ Last updated: 07.10.2026 (Day 98)
 3. **June:** dragon hoard finished, started React, roadmap phases 1–3 (gallery, quest log), website for a friend (beauty saloon), game management system (gms)
 4. **July:** gms, finance tracker, then a low phase with only ~10–20 min a day (learning, finace-tracker, QuestLog…, from GitHub commits; almost gave up on coding)
 5. **August – early September:** learning, addiction-tracker, setup, static page, teambuilder, pull tracker, workout-tracker, game-backlog (from Astrameath and GitHub, no devlog notes)
-6. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10), finished and deployed (07.10), Scrimba JavaScript lectures started (07.10)
+6. **September – now:** expense tracker MVP, to-do list, teambuilder, Scrimba HTML/CSS lectures + first project + Space Exploration site, Smoke Tracker finished and deployed on Netlify (04.10, Claude wrote most of it from phases on), Scrimba Birthday Card lecture project finished, made his own (Aemeath) and deployed on Netlify (05.10), Town Homepage started (06.10), finished and deployed on Netlify (07.10, https://town-homepage-startorch.netlify.app/), Scrimba JavaScript lectures started (07.10)
 
 ### Current projects
 - **Smoke Tracker** (React + Supabase): finished and live on Netlify, now in daily use
