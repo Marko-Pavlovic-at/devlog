@@ -12,6 +12,14 @@ time:
 newest entries first — oldest at the bottom
 ===============================================================
 
+Day 99
+Date 08.10.2026
+Project Scrimba JS
+What i did: followed the scrimba lectures
+what i do next: follow the scrimba lectures
+observations:
+time: 30 mins
+
 Day 98
 Date 07.10.2026
 Project Hometown-homepage / Scrimba Javascript
