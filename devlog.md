@@ -1,16 +1,19 @@
 TEMPLATE — copy this block for a new entry, paste it right below this line
 
-Day N
-Date
-Project
-What i did:
-what i do next:
-observations:
-time:
-
 ===============================================================
 newest entries first — oldest at the bottom
 ===============================================================
+
+Day 100
+Date 09.10.2026
+Project Scrimba JS
+What i did:
+
+- finished the first part about creating a counter app
+  what i do next:
+- next section on scrimba js Challanges and blackjack game showcase
+  observations:
+  time: 56mins
 
 Day 99
 Date 08.10.2026
