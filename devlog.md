@@ -1,8 +1,26 @@
-TEMPLATE — copy this block for a new entry, paste it right below this line
+Day
+Date
+Project
+What i did:
+
+observations:
+time:
 
 ===============================================================
 newest entries first — oldest at the bottom
 ===============================================================
+
+Day 101
+Date 10.10.2026
+Project Scrimba JS Challanges
+What i did:
+
+- finished the mini challenges
+- set up a repo for the next solo project
+
+observations: i hate math in coding there was a challenge that practises operator presedence it takes around 6 variables and attempts to calculate travel costs my task was to fix the operations and i failed even when the challenge was extemly easy
+
+time: 56 mins
 
 Day 100
 Date 09.10.2026
